@@ -1,0 +1,6 @@
+{
+	"parent": "medabots_server:block/activated_floor_switch",
+	"textures": {
+		"floor_switch": "medabots_server:block/floor_switch_yellow_activated"
+	}
+}

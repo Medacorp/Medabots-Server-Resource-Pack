@@ -1,0 +1,6 @@
+{
+    "parent": "medabots_server:item/spider_medal",
+	"textures": {
+		"charge": "medabots_server:item/medal_charge"
+	}
+}

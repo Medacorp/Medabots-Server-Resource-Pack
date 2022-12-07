@@ -1,0 +1,4045 @@
+{
+    "ambient.fly_course_fallout": {
+        "sounds": [
+            {
+                "name": "minecraft:block.note_block.pling",
+                "pitch": 0.5,
+                "type": "event"
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.ambient.fly_course_fallout"
+    },
+    "block.accelerator": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/accelerator",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.accelerator"
+    },
+    "block.action_floor.close": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/action_floor/close",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.action_floor"
+    },
+    "block.action_floor.open": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/action_floor/open",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.action_floor"
+    },
+    "block.alarm": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/alarm",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.alarm"
+    },
+    "block.door.close": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/door/close",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.door.close"
+    },
+    "block.door.open": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/door/open",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.door.open"
+    },
+    "block.fan": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/fan",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.fan"
+    },
+    "block.floor_switch": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/floor_switch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.floor_switch"
+    },
+    "block.fly_course_ring": {
+        "sounds": [
+            {
+                "name": "minecraft:block.note_block.pling",
+                "pitch": 0.5,
+                "type": "event",
+                "volume": 0.0005
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.fly_course_ring"
+    },
+    "block.gas_floor": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/gas_floor",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.gas_floor"
+    },
+    "block.hammer_punch": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/hammer_punch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.hammer_punch"
+    },
+    "block.hole.ambient": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/hole/ambient",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.hole.ambient"
+    },
+    "block.hole.spit": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/hole/spit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.hole.spit"
+    },
+    "block.hole.swallow": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/hole/swallow",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.hole.swallow"
+    },
+    "block.jammy": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/jammy",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.jammy"
+    },
+    "block.laser_trap": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/laser_trap",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.laser_trap"
+    },
+    "block.mirror.reflect": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/mirror/reflect",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.mirror.reflect"
+    },
+    "block.mirror.rotate": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/mirror/rotate",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.mirror.rotate"
+    },
+    "block.moving_block.fall": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/moving_block/fall",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.moving_block.fall"
+    },
+    "block.moving_block.move": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/moving_block/move",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.moving_block.move"
+    },
+    "block.press_wall.move": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/press_wall/move",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.press_wall.move"
+    },
+    "block.press_wall.stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/press_wall/stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.press_wall.stop"
+    },
+    "block.spring_wall": {
+        "sounds": [
+            {
+                "name": "medabots_server:block/spring_wall",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.block.spring_wall"
+    },
+    "entity.bomb.explode": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/bomb/explode",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.bomb.explode"
+    },
+    "entity.brass.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/brass/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.brass.talk"
+    },
+    "entity.cannon.beep": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/cannon/beep",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.cannon.beep"
+    },
+    "entity.cannon.death": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/cannon/death",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.cannon.death"
+    },
+    "entity.cannon.fire": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/cannon/fire",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.cannon.fire"
+    },
+    "entity.caroline.intro.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/caroline/intro_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.caroline.talk"
+    },
+    "entity.caroline.intro.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/caroline/intro_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.caroline.talk"
+    },
+    "entity.caroline.defeat.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/caroline/defeat_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.caroline.talk"
+    },
+    "entity.caroline.defeat.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/caroline/defeat_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.caroline.talk"
+    },
+    "entity.caroline.victory.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/caroline/victory_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.caroline.talk"
+    },
+    "entity.caroline.victory.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/caroline/victory_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.caroline.talk"
+    },
+    "entity.crazy_hand.background_punch": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/background_punch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.background_punch_start": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/background_punch_start",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.background_punch_stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/background_punch_stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.ball_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/ball_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.ball_throw": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/ball_throw",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.black_hole_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/black_hole_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.black_hole_rip": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/black_hole_rip",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.bomb": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/bomb",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.bomb_move": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/bomb_move",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.combo_prepare": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/combo_prepare",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.combo_start": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/combo_start",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.come_here_prepare": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/come_here_prepare",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.damage": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/damage",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.damage"
+    },
+    "entity.crazy_hand.death2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/death2",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.death"
+    },
+    "entity.crazy_hand.death3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/death3",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.death"
+    },
+    "entity.crazy_hand.death4": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/death4",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.death"
+    },
+    "entity.crazy_hand.earthquake": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/earthquake",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.fake_out": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fake_out",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.fake_out_land": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fake_out_land",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.final_hit2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/final_hit2",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.damage"
+    },
+    "entity.crazy_hand.final_hit3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/final_hit3",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.damage"
+    },
+    "entity.crazy_hand.final_hit4": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/final_hit4",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.damage"
+    },
+    "entity.crazy_hand.fireball_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/fireball_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.fireball_land": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/fireball_land",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.fireball_squeeze": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/fireball_squeeze",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.fireball_throw": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/fireball_throw",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.grab": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.grab_burry": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/grab_burry",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.grab_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.grab_miss": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab_miss",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.grab_throw": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab_throw",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.hard_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/hard_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.laser": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/laser",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.laugh2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/laugh2",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.laugh"
+    },
+    "entity.crazy_hand.laugh3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/laugh3",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.laugh"
+    },
+    "entity.crazy_hand.laugh4": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/laugh4",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.laugh"
+    },
+    "entity.crazy_hand.pillar_disappear": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/pillar_disappear",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.pillar_grab": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/pillar_grab",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.pillar_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/pillar_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.pillar_place": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/pillar_place",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.poke": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/finger_kick",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.power_punch": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/power_punch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.power_punch_repeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/fist_repeat",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.rocket_background": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_background",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.rocket_foreground": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_foreground",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.rocket_start": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_start",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.rocket_stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.scratch": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/crazy_hand/scratch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.spin_land": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_land",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.spin_return": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_return",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.spin_start": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_start",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.spin_stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.crazy_hand.swipe": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/swipe",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.crazy_hand.attack"
+    },
+    "entity.director_tune.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/director_tune/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.director_tune.talk"
+    },
+    "entity.director_tune.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/director_tune/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.director_tune.talk"
+    },
+    "entity.director_tune.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/director_tune/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.director_tune.talk"
+    },
+    "entity.doctor_haru.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/doctor_haru/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.doctor_haru.talk"
+    },
+    "entity.doctor_haru.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/doctor_haru/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.doctor_haru.talk"
+    },
+    "entity.doctor_haru.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/doctor_haru/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.doctor_haru.talk"
+    },
+    "entity.erika.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/erika/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.erika.talk"
+    },
+    "entity.erika.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/erika/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.erika.talk"
+    },
+    "entity.erika.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/erika/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.erika.talk"
+    },
+    "entity.guard.attack": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/guard/attack",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.guard.attack"
+    },
+    "entity.guard.death": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/guard/death",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.guard.death"
+    },
+    "entity.guard.move": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/guard/move",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.guard.move"
+    },
+    "entity.jaxy.intro.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/jaxy/intro_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.jaxy.talk"
+    },
+    "entity.jaxy.intro.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/jaxy/intro_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.jaxy.talk"
+    },
+    "entity.jaxy.defeat.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/jaxy/defeat_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.jaxy.talk"
+    },
+    "entity.jaxy.defeat.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/jaxy/defeat_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.jaxy.talk"
+    },
+    "entity.jaxy.victory.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/jaxy/victory_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.jaxy.talk"
+    },
+    "entity.jaxy.victory.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/jaxy/victory_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.jaxy.talk"
+    },
+    "entity.karin.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/karin/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.karin.talk"
+    },
+    "entity.karin.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/karin/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.karin.talk"
+    },
+    "entity.karin.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/karin/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.karin.talk"
+    },
+    "entity.koji.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/koji/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.koji.talk"
+    },
+    "entity.koji.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/koji/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.koji.talk"
+    },
+    "entity.koji.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/koji/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.koji.talk"
+    },
+    "entity.krosserdog.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/krosserdog/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.krosserdog.talk"
+    },
+    "entity.master_hand.background_punch": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/background_punch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.background_punch_start": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/background_punch_start",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.background_punch_stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/background_punch_stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.ball_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/ball_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.ball_throw": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/ball_throw",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.bullet": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/bullet",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.card_deal": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/card_deal",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.card_moving": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/card_moving",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.damage": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/damage",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.damage"
+    },
+    "entity.master_hand.death1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/death1",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.death"
+    },
+    "entity.master_hand.death2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/death2",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.death"
+    },
+    "entity.master_hand.death3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/death3",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.death"
+    },
+    "entity.master_hand.death4": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/death4",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.death"
+    },
+    "entity.master_hand.fake_out": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fake_out",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.fake_out_land": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fake_out_land",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.final_hit2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/final_hit2",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.death"
+    },
+    "entity.master_hand.final_hit3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/final_hit3",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.death"
+    },
+    "entity.master_hand.final_hit4": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/final_hit4",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.death"
+    },
+    "entity.master_hand.finger_kick": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/finger_kick",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.finger_walk": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/finger_walk",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.fireball_effect": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fireball_effect",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.fireball_land": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fireball_land",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.fireball_punch": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fireball_punch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.fireball_throw": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/fireball_throw",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.flick": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/flick",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.freeze": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/freeze",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.grab": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.grab_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.grab_miss": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab_miss",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.grab_throw": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/grab_throw",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.hard_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/hard_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.ice_broken": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/ice_broken",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.laser": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/laser",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.laugh1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/laugh1",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.laugh"
+    },
+    "entity.master_hand.laugh2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/laugh2",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.laugh"
+    },
+    "entity.master_hand.laugh3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/laugh3",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.laugh"
+    },
+    "entity.master_hand.laugh4": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/laugh4",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.laugh"
+    },
+    "entity.master_hand.master_core_free": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/master_core_free",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_core.free"
+    },
+    "entity.master_hand.power_punch": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/power_punch",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.rocket_background": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_background",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.rocket_foreground": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_foreground",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.rocket_start": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_start",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.rocket_stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/rocket_stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.sleep": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/sleep",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.spin_land": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_land",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.spin_return": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_return",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.spin_start": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_start",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.spin_stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/spin_stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.swipe": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/swipe",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.uppercut": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/uppercut",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.master_hand.wind": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/master_hand/wind",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.master_hand.attack"
+    },
+    "entity.max.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/max/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.max.talk"
+    },
+    "entity.max.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/max/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.max.talk"
+    },
+    "entity.max.photo": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/max/photo",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.max.photo"
+    },
+    "entity.max.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/max/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.max.talk"
+    },
+    "entity.medabot.attack.anti_fly": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/anti_fly",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.anti_swim": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/anti_swim",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.anti_tank": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/anti_tank",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.trap.attack"
+    },
+    "entity.medabot.attack.beam": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/beam",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.break": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/break",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.bug": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/bug",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.charge_medaforce": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/charge_medaforce",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.confusion": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/confusion",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.defense": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/defense",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.destroy": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/destroy",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.falling": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/falling",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.gatling": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/gatling",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.hammer": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/hammer",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.heal": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/heal",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.heavy_shot": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/heavy_shot",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.hide": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/destroy",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.laser": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/laser",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.melt": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/melt",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.press": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/press",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.press_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/press_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.repair": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/repair",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.rifle": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/rifle",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.sacrifice": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/sacrifice",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.scout": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/scout",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.slowness": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/slowness",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.status_clear": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/status_clear",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.status_down": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/status_down",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.status_up": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/status_up",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.stop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/stop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.sword": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/sword",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.transform": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/transform",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.trap_clear": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/trap_clear",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.trap_hit": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/trap_hit",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.trap.attack"
+    },
+    "entity.medabot.attack.trap_set": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/trap_set",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.virus": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/virus",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.attack.wave": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/attack/wave",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.attack"
+    },
+    "entity.medabot.broken_part": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/broken_part",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.break.part"
+    },
+    "entity.medabot.damage": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/damage",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.break"
+    },
+    "entity.medabot.death": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/death",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.break.head"
+    },
+    "entity.medabot.death.crushed": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/death/crushed",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.break.head"
+    },
+    "entity.medabot.death.drowned": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/death/drowned",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.break.head"
+    },
+    "entity.medabot.move.edge_grab": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/edge_grab",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.edge_grab"
+    },
+    "entity.medabot.move.edge_grab_drop": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/edge_grab_drop",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.edge_grab.drop"
+    },
+    "entity.medabot.move.fall": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/fall",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.fall"
+    },
+    "entity.medabot.move.fly": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/fly",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.fly"
+    },
+    "entity.medabot.move.footstool": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/footstool",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.footstool"
+    },
+    "entity.medabot.move.jump": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/jump",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.jump"
+    },
+    "entity.medabot.move.leap": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/leap",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.leap"
+    },
+    "entity.medabot.move.mod": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/mod",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.mod"
+    },
+    "entity.medabot.move.on_water": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/on_water",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.on_water"
+    },
+    "entity.medabot.move.roll": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/roll",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.action_mode"
+    },
+    "entity.medabot.move.run": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/run",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.run"
+    },
+    "entity.medabot.move.swim": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/swim",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.swim"
+    },
+    "entity.medabot.move.under_water": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/under_water",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.under_water"
+    },
+    "entity.medabot.move.walk": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/medabot/move/walk",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.medabot.move.walk"
+    },
+    "entity.metabee.are_you_done": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/are_you_done",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.intro.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/intro_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.intro.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/intro_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.intro.3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/intro_3",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.choose_parts_carefully": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/choose_parts_carefully",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.final_battle": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/final_battle",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.forgetting_me": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/forgetting_me",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.hurry_up": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/hurry_up",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.just_wrong": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/just_wrong",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.lets_go": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/lets_go",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.medal_has_own_prefrence": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/medal_has_own_prefrence",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.not_done_assambling": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/not_done_assambling",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.perfect": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/perfect",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.pretty_good": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/pretty_good",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.pretty_good_combination": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/pretty_good_combination",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.stage": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/stage1",
+                "stream": false,
+                "volume": 0.00033
+            },
+            {
+                "name": "medabots_server:entity/metabee/stage2",
+                "stream": false,
+                "volume": 0.00033
+            },
+            {
+                "name": "medabots_server:entity/metabee/stage3",
+                "stream": false,
+                "volume": 0.00033
+            },
+            {
+                "name": "medabots_server:entity/metabee/stage4",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.victory.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/victory_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.victory.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/victory_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.wait_a_minute": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/wait_a_minute",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.what_are_you_doing": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/what_are_you_doing",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.who_wanna_change": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/who_wanna_change",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.metabee.you_kidding": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/metabee/you_kidding",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.metabee.talk"
+    },
+    "entity.mr_referee.function_ceased": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/function_ceased1",
+                "stream": false,
+                "volume": 0.00033
+            },
+            {
+                "name": "medabots_server:entity/mr_referee/function_ceased2",
+                "stream": false,
+                "volume": 0.00033
+            },
+            {
+                "name": "medabots_server:entity/mr_referee/function_ceased3",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.0": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_1",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_2",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_3",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.3": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_4",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.4": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_5",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.5": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_6",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.6": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_7",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.intro.7": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/intro_8",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.robattle": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/robattle",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.then_its_agreed": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/then_its_agreed",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.mr_referee.time_is_up": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/mr_referee/time_is_up",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.mr_referee.talk"
+    },
+    "entity.peppercat.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/peppercat/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.peppercat.talk"
+    },
+    "entity.roks.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/roks/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.roks.talk"
+    },
+    "entity.rubberobo.death": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/rubberobo/death_0",
+                "stream": false
+            },
+            {
+                "name": "medabots_server:entity/rubberobo/death_1",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.rubberobo.death"
+    },
+    "entity.rubberobo.downing": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/rubberobo/downing",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.rubberobo.downing"
+    },
+    "entity.rubberobo.hurt": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/rubberobo/hurt_0",
+                "stream": false
+            },
+            {
+                "name": "medabots_server:entity/rubberobo/hurt_1",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.rubberobo.hurt"
+    },
+    "entity.rubberobo.respawn": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/rubberobo/respawn_0",
+                "stream": false
+            },
+            {
+                "name": "medabots_server:entity/rubberobo/respawn_1",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.rubberobo.respawn"
+    },
+    "entity.rubberobo.see_goal_area": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/rubberobo/see_goal_area",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.rubberobo.see_goal_area"
+    },
+    "entity.rubberobo.walk": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/rubberobo/walk",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.rubberobo.walk"
+    },
+    "entity.rubberobo.walk_downed": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/rubberobo/walk_downed",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.rubberobo.walk_downed"
+    },
+    "entity.samantha.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/samantha/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.samantha.talk"
+    },
+    "entity.samantha.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/samantha/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.samantha.talk"
+    },
+    "entity.samantha.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/samantha/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.samantha.talk"
+    },
+    "entity.sloan.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/sloan/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.sloan.talk"
+    },
+    "entity.sloan.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/sloan/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.sloan.talk"
+    },
+    "entity.sloan.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/sloan/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.sloan.talk"
+    },
+    "entity.spyke.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/spyke/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.spyke.talk"
+    },
+    "entity.spyke.defeat": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/spyke/defeat",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.spyke.talk"
+    },
+    "entity.spyke.victory": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/spyke/victory",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.spyke.talk"
+    },
+    "entity.topman.attack": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/topman/attack",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.topman.attack"
+    },
+    "entity.topman.death": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/topman/death",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.topman.death"
+    },
+    "entity.topman.move": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/topman/move",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.topman.move"
+    },
+    "entity.totalizer.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/totalizer/intro",
+                "stream": false,
+                "volume": 0.00033
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.entity.totalizer.talk"
+    },
+    "item.jukebox.interference": {
+        "sounds": [
+            {
+                "name": "medabots_server:item/jukebox/interference",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.item.jukebox.interference"
+    },
+    "item.metal_detector.beep": {
+        "sounds": [
+            {
+                "name": "medabots_server:entity/cannon/beep",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.item.metal_detector.beep"
+    },
+    "music.battle.0": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/0",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.0_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/0_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.1": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/1",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.1_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/1_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.2": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/2",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.2_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/2_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.3": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/3",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.3_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/3_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.corruption": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/corruption",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.dimentio": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/dimentio",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.dimentio_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/dimentio_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.rubberobo_leader": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/rubberobo_leader",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.rubberobo_leader_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/rubberobo_leader_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.battle.under": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/battle/under",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.boss_mae": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/boss_mae",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.serious": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/serious",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.credits": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/credits",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.credits_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/credits_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.edit": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/edit",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.edit_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/edit_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.ending": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/ending",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.erika": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/erika",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.dimentio": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/dimentio",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.dimentio_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/dimentio_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.director_tune": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/director_tune",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.doctor_haru": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/doctor_haru",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.doctor_haru.evil": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/doctor_haru/evil",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.doctor_haru.evil_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/doctor_haru/evil_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.doctor_haru.sad": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/doctor_haru/sad",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.god_emperor": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/god_emperor",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.jaxy": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/jaxy",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.jaxy.power": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/jaxy/power",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.karin": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/karin",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.king_pharaoh": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/king_pharaoh",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.king_pharaoh_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/king_pharaoh_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.koji": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/koji",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.koji_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/koji_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.magolor": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/magolor",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.max": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/max",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.meta_evil": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/meta_evil",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.mr_referee": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/mr_referee",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.phantom_renegade": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/phantom_renegade",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.rubberobo": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/rubberobo",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.rubberobo_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/rubberobo_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.screws": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/screws",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.screws_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/screws_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.select_corps": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/select_corps",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.entity.select_corps_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/entity/select_corps_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.jammy": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/jammy",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_beach": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_beach",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_beach_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_beach_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_finished": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_finished",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_overworld": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_overworld",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_sea": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_sea",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_underground": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_underground",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_underground_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_underground_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_welcome_underground": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_welcome_underground",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.map_welcome_underground_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/map_welcome_underground_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.medawatch": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/medawatch",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.medawatch_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/medawatch_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.arena": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/arena",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.arena_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/arena_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.final_destination_1": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/final_destination_1",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.final_destination_1_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/final_destination_1_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.final_destination_2": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/final_destination_2",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.final_destination_2_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/final_destination_2_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.final_destination_3": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/final_destination_3",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.final_destination_3_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/final_destination_3_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.final_destination_4": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/final_destination_4",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.lagdou_ruins_1": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/lagdou_ruins_1",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.lagdou_ruins_2": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/lagdou_ruins_2",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.lagdou_ruins_3": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/lagdou_ruins_3",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.lor_starcutter": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/lor_starcutter",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.ricco_harbor": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/ricco_harbor",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.ricco_harbor_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/ricco_harbor_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.arena.ricco_harbor_removed": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/arena/ricco_harbor_removed",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.argorok": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/argorok",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.argorok_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/argorok_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.dimentio": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/dimentio",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.galleom_1": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/galleom_1",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.galleom_1_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/galleom_1_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.galleom_2": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/galleom_2",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.galleom_2_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/galleom_2_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.hr_d3": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/hr_d3",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.hr_d3_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/hr_d3_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.lor_starcutter": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/lor_starcutter",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.lor_starcutter_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/lor_starcutter_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.magolor": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/magolor",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.magolor_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/magolor_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.magolor_soul": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/magolor_soul",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.magolor_soul_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/magolor_soul_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_core": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_core",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_core_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_core_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_fortress_1": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_fortress_1",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_fortress_2": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_fortress_2",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_hand_1": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_hand_1",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_hand_1_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_hand_1_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_hand_and_crazy_hand_2": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_hand_and_crazy_hand_2",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_hand_and_crazy_hand_2_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_hand_and_crazy_hand_2_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_hand_and_crazy_hand_3": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_hand_and_crazy_hand_3",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_hand_and_crazy_hand_3_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_hand_and_crazy_hand_3_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.master_hand_and_crazy_hand_4": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/master_hand_and_crazy_hand_4",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.topmaniac": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/topmaniac",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.topmaniac_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/topmaniac_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boxer": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boxer",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.cleared": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/cleared",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.cleared_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/cleared_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.easy_fly_course": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/easy_fly_course",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.easy_fly_course_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/easy_fly_course_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.another_dimension": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/another_dimension",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.another_dimension_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/another_dimension_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.dreadnought_galaxy": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/dreadnought_galaxy",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.dreadnought_galaxy_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/dreadnought_galaxy_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.egg_engines": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/egg_engines",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.egg_engines_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/egg_engines_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.mustafar": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/mustafar",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.mustafar_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/mustafar_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.palace_of_twilight": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/palace_of_twilight",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.everlasting_combat.palace_of_twilight_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/everlasting_combat/palace_of_twilight_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.failed": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/failed",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.failed_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/failed_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.hard_fly_course": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/hard_fly_course",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.hard_fly_course_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/hard_fly_course_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.iceberg": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/iceberg",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.jungle": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/jungle",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.laboratory": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/laboratory",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.laboratory_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/laboratory_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.medium_fly_course": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/medium_fly_course",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.medium_fly_course_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/medium_fly_course_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.mt_battle": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/mt_battle",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.mt_battle_colosseum": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/mt_battle_colosseum",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.mt_battle_colosseum_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/mt_battle_colosseum_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.mt_battle_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/mt_battle_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.paradise": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/paradise",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.park": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/park",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.park_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/park_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.grassland": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/grassland",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.rock": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/rock",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.rock_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/rock_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.ruins_in": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/ruins_in",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.ruins_out": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/ruins_out",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.sammers_kingdom": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/sammers_kingdom",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.seashore": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/seashore",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.snowfield": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/snowfield",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.subspace_1": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/subspace_1",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.subspace_1_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/subspace_1_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.subspace_2": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/subspace_2",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.subspace_2_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/subspace_2_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.subspace_3": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/subspace_3",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.subspace_3_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/subspace_3_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.under_stage": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/under_stage",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.waiting_for_players": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/waiting_for_players",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.waiting_for_players_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/waiting_for_players_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.story": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/story",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    }
+}

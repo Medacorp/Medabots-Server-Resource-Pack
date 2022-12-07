@@ -1,0 +1,6 @@
+{
+	"parent": "medabots_server:entity/plant",
+	"textures": {
+		"0": "medabots_server:entity/plant/green"
+	}
+}

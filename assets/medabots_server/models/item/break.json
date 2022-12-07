@@ -1,0 +1,6 @@
+{
+    "parent": "medabots_server:item/hidden",
+	"textures": {
+        "layer0": "minecraft:block/black_wool"
+    }
+}

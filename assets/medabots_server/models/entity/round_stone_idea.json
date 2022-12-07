@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "medabots_server:entity/round_stone",
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, -6.4, 0],
+			"scale": [2.3, 2.3, 2.3]
+		}
+	}
+}

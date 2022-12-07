@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "medabots_server:entity/guard",
+		"particle": "medabots_server:entity/guard"
+	},
+	"elements": [
+		{
+			"name": "body",
+			"from": [3, 3, 3],
+			"to": [13, 8, 13],
+			"faces": {
+				"north": {"uv": [2.5, 2.5, 5, 3.75], "texture": "#0"},
+				"east": {"uv": [0, 2.5, 2.5, 3.75], "texture": "#0"},
+				"south": {"uv": [7.5, 2.5, 10, 3.75], "texture": "#0"},
+				"west": {"uv": [5, 2.5, 7.5, 3.75], "texture": "#0"},
+				"up": {"uv": [5, 2.5, 2.5, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 0, 5, 2.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

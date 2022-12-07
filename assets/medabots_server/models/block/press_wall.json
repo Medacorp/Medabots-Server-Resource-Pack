@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "medabots_server:block/press_wall_top",
+		"1": "medabots_server:block/press_wall_bottom",
+		"2": "medabots_server:block/press_wall_front",
+		"3": "medabots_server:block/press_wall_side",
+		"particle": "medabots_server:block/press_wall_top"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 29.5],
+			"to": [10, 4, 30.5],
+			"faces": {
+				"east": {"uv": [0, 0, 4, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [4, 0, 0, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 4, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 0, 28.5],
+			"to": [10, 4, 29.5],
+			"faces": {
+				"east": {"uv": [4, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [16, 0, 4, 16], "texture": "#3"},
+				"up": {"uv": [4, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4, 0, 16, 16], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, 80, 20],
+			"scale": [4, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "parent": "medabots_server:item/hidden",
+	"display": {
+		"firstperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	},
+	"textures": {
+        "layer0": "medabots_server:item/bullet"
+    }
+}

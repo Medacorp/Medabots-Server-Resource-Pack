@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/structure_void",
+		"particle": "minecraft:item/structure_void"
+    },
+	"display": {
+	    "head": {
+            "scale": [ 0, 0, 0 ]
+		}
+	}
+}

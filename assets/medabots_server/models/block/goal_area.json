@@ -1,0 +1,6 @@
+{
+	"parent": "medabots_server:block/starting_area",
+	"textures": {
+		"0": "medabots_server:block/goal_area"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "medabots_server:entity/guard",
+		"particle": "medabots_server:entity/guard"
+	},
+	"elements": [
+		{
+			"name": "front_right_leg",
+			"from": [0, 0, 0],
+			"to": [3, 5, 3],
+			"faces": {
+				"north": {"uv": [0.75, 6.5, 1.5, 7.75], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 0.75, 7.75], "texture": "#0"},
+				"south": {"uv": [2.25, 6.5, 3, 7.75], "texture": "#0"},
+				"west": {"uv": [1.5, 6.5, 2.25, 7.75], "texture": "#0"},
+				"up": {"uv": [1.5, 6.5, 0.75, 5.75], "texture": "#0"},
+				"down": {"uv": [2.25, 5.75, 1.5, 6.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [5, -8, 15]
+		}
+	}
+}

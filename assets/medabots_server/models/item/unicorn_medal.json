@@ -1,0 +1,6 @@
+{
+    "parent": "medabots_server:item/medal",
+	"textures": {
+		"face": "medabots_server:item/unicorn_medal"
+	}
+}

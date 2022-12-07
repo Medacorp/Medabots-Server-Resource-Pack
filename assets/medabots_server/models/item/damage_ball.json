@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/purple_wool",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

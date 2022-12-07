@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "medabots_server:block/torutoru_land_block",
+	"textures": {
+		"0": "medabots_server:block/pot_side",
+		"1": "medabots_server:block/pot_top",
+		"particle": "medabots_server:block/pot_side"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 16, 15],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"east": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#0"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#1"}
+			}
+		}
+	]
+}

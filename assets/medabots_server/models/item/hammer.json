@@ -1,0 +1,6 @@
+{
+    "parent": "medabots_server:item/hidden_handheld",
+	"textures": {
+        "layer0": "minecraft:item/iron_axe"
+    }
+}

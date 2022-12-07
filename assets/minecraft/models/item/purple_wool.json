@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/purple_wool",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/damage_ball"
+        }
+	]
+}

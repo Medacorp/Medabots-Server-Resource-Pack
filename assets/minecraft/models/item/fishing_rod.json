@@ -1,0 +1,2705 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "minecraft:item/fishing_rod"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "cast": 1
+            },
+            "model": "minecraft:item/fishing_rod_cast"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": -3
+            },
+            "model": "medabots_server:entity/neutral_tinpet/legs_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": -3
+            },
+            "model": "medabots_server:entity/neutral_tinpet/left_arm_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": -3
+            },
+            "model": "medabots_server:entity/neutral_tinpet/right_arm_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": -3
+            },
+            "model": "medabots_server:entity/neutral_tinpet/head_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": -2
+            },
+            "model": "medabots_server:entity/female_tinpet/legs_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": -2
+            },
+            "model": "medabots_server:entity/female_tinpet/left_arm_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": -2
+            },
+            "model": "medabots_server:entity/female_tinpet/right_arm_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": -2
+            },
+            "model": "medabots_server:entity/female_tinpet/head_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": -1
+            },
+            "model": "medabots_server:entity/male_tinpet/legs_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": -1
+            },
+            "model": "medabots_server:entity/male_tinpet/left_arm_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": -1
+            },
+            "model": "medabots_server:entity/male_tinpet/right_arm_medapart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": -1
+            },
+            "model": "medabots_server:entity/male_tinpet/head_medapart"
+        },
+		{
+            "predicate": {
+				"damage": 0.015,
+                "custom_model_data": 0
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+		{
+            "predicate": {
+				"damage": 0.03,
+                "custom_model_data": 0
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+		{
+            "predicate": {
+				"damage": 0.045,
+                "custom_model_data": 0
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+		{
+            "predicate": {
+				"damage": 0.06,
+                "custom_model_data": 0
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:entity/keithturtle/rollertank"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:entity/keithturtle/gigalaser"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:entity/keithturtle/megalaser"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:entity/keithturtle/tyranolaser"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:entity/knight_armor/trojan_horse"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:entity/knight_armor/greatshield"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:entity/knight_armor/knightshield"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:entity/knight_armor/clearshield"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:entity/doctor_study/chairly"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:entity/doctor_study/cut_radar"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:entity/doctor_study/point_radar"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:entity/doctor_study/search_radar"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:entity/grade_kabuki/flower_road"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:entity/grade_kabuki/acting"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:entity/grade_kabuki/decider"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:entity/grade_kabuki/free_hair"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:entity/kasou_touchu/fungoton"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:entity/kasou_touchu/maitake"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:entity/kasou_touchu/shitake"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:entity/kasou_touchu/mushroom"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:entity/maxsnake/musk"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:entity/maxsnake/jack"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:entity/maxsnake/virus"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:entity/maxsnake/hacker"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:entity/poison_scorpi/zigzag"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:entity/poison_scorpi/scorpion_rat"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:entity/poison_scorpi/scorpion_cat"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:entity/poison_scorpi/scorpion_dog"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:entity/bluesdog/howzer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:entity/bluesdog/battle_rifle"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:entity/bluesdog/aim_rifle"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:entity/bluesdog/headcannon"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:entity/attack_tyrano/attach_leg"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:entity/attack_tyrano/strike_hit"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:entity/attack_tyrano/crab_hit"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:entity/attack_tyrano/breathfire"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:entity/magicalcard/wandrack"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:entity/magicalcard/lookme"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:entity/magicalcard/onetwothree"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:entity/magicalcard/magitech"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:entity/baroncastle/tyrantower"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:entity/baroncastle/gatemonarch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:entity/baroncastle/sentineldy"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:entity/baroncastle/king_balcony"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:entity/hellphoenix/red_tail"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:entity/hellphoenix/flame_gun"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:entity/hellphoenix/fire_gun"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:entity/hellphoenix/blast_gun"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:entity/fly_falcon/flyphone"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:entity/fly_falcon/burncapsule"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:entity/fly_falcon/burntube"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:entity/fly_falcon/burn_head"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:entity/blackstag/blackfluke"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:entity/blackstag/blackbeat"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:entity/blackstag/blackvice"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:entity/blackstag/blackincome"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:entity/arcbeetle/firework"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:entity/arcbeetle/explode"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:entity/arcbeetle/ignition"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:entity/arcbeetle/prominence"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:entity/bezelga/helcaos"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:entity/bezelga/helming"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:entity/bezelga/helmight"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:entity/bezelga/helmet"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 17
+            },
+            "model": "medabots_server:entity/god_emperor/death_crawler"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 17
+            },
+            "model": "medabots_server:entity/god_emperor/death_laser"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 17
+            },
+            "model": "medabots_server:entity/god_emperor/death_missile"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 17
+            },
+            "model": "medabots_server:entity/god_emperor/death_break"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 18
+            },
+            "model": "medabots_server:entity/shoot_spider/multi_leg"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 18
+            },
+            "model": "medabots_server:entity/shoot_spider/cheaptrap"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 18
+            },
+            "model": "medabots_server:entity/shoot_spider/cheapertrap"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 18
+            },
+            "model": "medabots_server:entity/shoot_spider/spydertrap"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 19
+            },
+            "model": "medabots_server:entity/pretty_prime/temple_master"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 19
+            },
+            "model": "medabots_server:entity/pretty_prime/shineshield"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 19
+            },
+            "model": "medabots_server:entity/pretty_prime/dont_move"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 19
+            },
+            "model": "medabots_server:entity/pretty_prime/reflectmirror"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 20
+            },
+            "model": "medabots_server:entity/basstroyer/lakeduster"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 20
+            },
+            "model": "medabots_server:entity/basstroyer/srounding"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 20
+            },
+            "model": "medabots_server:entity/basstroyer/environment"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 20
+            },
+            "model": "medabots_server:entity/basstroyer/great_swallow"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 21
+            },
+            "model": "medabots_server:entity/kanehachi_mk2/swick"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 21
+            },
+            "model": "medabots_server:entity/kanehachi_mk2/twist"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 21
+            },
+            "model": "medabots_server:entity/kanehachi_mk2/catch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 21
+            },
+            "model": "medabots_server:entity/kanehachi_mk2/hatchin"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 22
+            },
+            "model": "medabots_server:entity/abyss_greater/depth_sole"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 22
+            },
+            "model": "medabots_server:entity/abyss_greater/pro_fence"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 22
+            },
+            "model": "medabots_server:entity/abyss_greater/burst"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 22
+            },
+            "model": "medabots_server:entity/abyss_greater/enticed"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 23
+            },
+            "model": "medabots_server:entity/darknut/darkarmor"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 23
+            },
+            "model": "medabots_server:entity/darknut/darkshield"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 23
+            },
+            "model": "medabots_server:entity/darknut/darksword"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 23
+            },
+            "model": "medabots_server:entity/darknut/darkhelmet"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 24
+            },
+            "model": "medabots_server:entity/blackbeetle/blackplace"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 24
+            },
+            "model": "medabots_server:entity/blackbeetle/blackblaster"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 24
+            },
+            "model": "medabots_server:entity/blackbeetle/blackfuser"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 24
+            },
+            "model": "medabots_server:entity/blackbeetle/blackbalister"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 25
+            },
+            "model": "medabots_server:entity/zant/usurper_outfit"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 25
+            },
+            "model": "medabots_server:entity/zant/usurper_scimitar"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 25
+            },
+            "model": "medabots_server:entity/zant/twilight_scimitar"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 25
+            },
+            "model": "medabots_server:entity/zant/zant_helmet"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 26
+            },
+            "model": "medabots_server:entity/aimflash/carrybag"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 26
+            },
+            "model": "medabots_server:entity/aimflash/tripod"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 26
+            },
+            "model": "medabots_server:entity/aimflash/zoom"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 26
+            },
+            "model": "medabots_server:entity/aimflash/strobe"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 27
+            },
+            "model": "medabots_server:entity/peppercat/quick_alert"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 27
+            },
+            "model": "medabots_server:entity/peppercat/light_blow"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 27
+            },
+            "model": "medabots_server:entity/peppercat/lightjump"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 27
+            },
+            "model": "medabots_server:entity/peppercat/lightcircuit"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 28
+            },
+            "model": "medabots_server:entity/seven_colors/twirl"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 28
+            },
+            "model": "medabots_server:entity/seven_colors/invisi_arm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 28
+            },
+            "model": "medabots_server:entity/seven_colors/invisi_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 28
+            },
+            "model": "medabots_server:entity/seven_colors/invisi_body"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 29
+            },
+            "model": "medabots_server:entity/boarbooster/mashglow"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 29
+            },
+            "model": "medabots_server:entity/boarbooster/woollybond"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 29
+            },
+            "model": "medabots_server:entity/boarbooster/drillril"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 29
+            },
+            "model": "medabots_server:entity/boarbooster/boartusk"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 30
+            },
+            "model": "medabots_server:entity/dondoguu/dokan"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 30
+            },
+            "model": "medabots_server:entity/dondoguu/dohtatack"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 30
+            },
+            "model": "medabots_server:entity/dondoguu/dohtack"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 30
+            },
+            "model": "medabots_server:entity/dondoguu/dogu"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 31
+            },
+            "model": "medabots_server:entity/dragonbeetle/flyfly"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 31
+            },
+            "model": "medabots_server:entity/dragonbeetle/veryweighter"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 31
+            },
+            "model": "medabots_server:entity/dragonbeetle/heavyweighter"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 31
+            },
+            "model": "medabots_server:entity/dragonbeetle/hardweighter"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 32
+            },
+            "model": "medabots_server:entity/dorcus/windfluke"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 32
+            },
+            "model": "medabots_server:entity/dorcus/intensebeat"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 32
+            },
+            "model": "medabots_server:entity/dorcus/fourvice"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 32
+            },
+            "model": "medabots_server:entity/dorcus/twinincome"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 33
+            },
+            "model": "medabots_server:entity/king_pharaoh/sit_down"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 33
+            },
+            "model": "medabots_server:entity/king_pharaoh/dark_hall"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 33
+            },
+            "model": "medabots_server:entity/king_pharaoh/black_hall"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 33
+            },
+            "model": "medabots_server:entity/king_pharaoh/grand_bomb"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 34
+            },
+            "model": "medabots_server:entity/hippopojamas/hipporet"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 34
+            },
+            "model": "medabots_server:entity/hippopojamas/hipporanger"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 34
+            },
+            "model": "medabots_server:entity/hippopojamas/megabaton"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 34
+            },
+            "model": "medabots_server:entity/hippopojamas/hippotent"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 35
+            },
+            "model": "medabots_server:entity/rhinorush/jaguarnote"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 35
+            },
+            "model": "medabots_server:entity/rhinorush/rhinoburn"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 35
+            },
+            "model": "medabots_server:entity/rhinorush/rhinogone"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 35
+            },
+            "model": "medabots_server:entity/rhinorush/rhinone"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 36
+            },
+            "model": "medabots_server:entity/fancyroll/babuhip"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 36
+            },
+            "model": "medabots_server:entity/fancyroll/letbomb"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 36
+            },
+            "model": "medabots_server:entity/fancyroll/magicalbit"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 36
+            },
+            "model": "medabots_server:entity/fancyroll/palrunmanner"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 37
+            },
+            "model": "medabots_server:entity/pastel_fairy/flower_fly"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 37
+            },
+            "model": "medabots_server:entity/pastel_fairy/force_barrier"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 37
+            },
+            "model": "medabots_server:entity/pastel_fairy/energy_barrier"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 37
+            },
+            "model": "medabots_server:entity/pastel_fairy/field_barrier"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 38
+            },
+            "model": "medabots_server:entity/flame_tisala/sala_tail"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 38
+            },
+            "model": "medabots_server:entity/flame_tisala/sala_arm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 38
+            },
+            "model": "medabots_server:entity/flame_tisala/sala_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 38
+            },
+            "model": "medabots_server:entity/flame_tisala/sala_head"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 39
+            },
+            "model": "medabots_server:entity/sailor_multi/flaregather"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 39
+            },
+            "model": "medabots_server:entity/sailor_multi/short_shot"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 39
+            },
+            "model": "medabots_server:entity/sailor_multi/pateri_vulcan"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 39
+            },
+            "model": "medabots_server:entity/sailor_multi/variablehair"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 40
+            },
+            "model": "medabots_server:entity/saintnurse/petticoat"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 40
+            },
+            "model": "medabots_server:entity/saintnurse/translate"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 40
+            },
+            "model": "medabots_server:entity/saintnurse/donor"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 40
+            },
+            "model": "medabots_server:entity/saintnurse/holy_helm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 41
+            },
+            "model": "medabots_server:entity/potato_insect/caterpie"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 41
+            },
+            "model": "medabots_server:entity/potato_insect/attenderskin"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 41
+            },
+            "model": "medabots_server:entity/potato_insect/rangingskin"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 41
+            },
+            "model": "medabots_server:entity/potato_insect/changedress"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 42
+            },
+            "model": "medabots_server:entity/uglyduck/elegancy"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 42
+            },
+            "model": "medabots_server:entity/uglyduck/featherdone"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 42
+            },
+            "model": "medabots_server:entity/uglyduck/feathermend"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 42
+            },
+            "model": "medabots_server:entity/uglyduck/swany"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 43
+            },
+            "model": "medabots_server:entity/pure_mermaid/purple_fins"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 43
+            },
+            "model": "medabots_server:entity/pure_mermaid/repair_arm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 43
+            },
+            "model": "medabots_server:entity/pure_mermaid/cure_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 43
+            },
+            "model": "medabots_server:entity/pure_mermaid/allrepair"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 44
+            },
+            "model": "medabots_server:entity/pinguen/fin"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 44
+            },
+            "model": "medabots_server:entity/pinguen/new_arm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 44
+            },
+            "model": "medabots_server:entity/pinguen/free_arm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 44
+            },
+            "model": "medabots_server:entity/pinguen/zera_reactor"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 45
+            },
+            "model": "medabots_server:entity/magolor/halcandran_cape"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 45
+            },
+            "model": "medabots_server:entity/magolor/magic_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 45
+            },
+            "model": "medabots_server:entity/magolor/tech_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 45
+            },
+            "model": "medabots_server:entity/magolor/master_crown"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 46
+            },
+            "model": "medabots_server:entity/amelia/swiftsole"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 46
+            },
+            "model": "medabots_server:entity/amelia/spear"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 46
+            },
+            "model": "medabots_server:entity/amelia/silver_axe"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 46
+            },
+            "model": "medabots_server:entity/amelia/great_shield"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 47
+            },
+            "model": "medabots_server:entity/saikachis/enplace"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 47
+            },
+            "model": "medabots_server:entity/saikachis/blaster"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 47
+            },
+            "model": "medabots_server:entity/saikachis/fuser"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 47
+            },
+            "model": "medabots_server:entity/saikachis/balister"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 48
+            },
+            "model": "medabots_server:entity/ashton/ash_leg"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 48
+            },
+            "model": "medabots_server:entity/ashton/ash_buster"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 48
+            },
+            "model": "medabots_server:entity/ashton/ash_breaker"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 48
+            },
+            "model": "medabots_server:entity/ashton/booster_head"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 49
+            },
+            "model": "medabots_server:entity/rob/famicom_base"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 49
+            },
+            "model": "medabots_server:entity/rob/gyro_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 49
+            },
+            "model": "medabots_server:entity/rob/stack_arm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 49
+            },
+            "model": "medabots_server:entity/rob/famicom_zapper"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 50
+            },
+            "model": "medabots_server:entity/iron_man/jet_repulsion"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 50
+            },
+            "model": "medabots_server:entity/iron_man/repulsor_beam"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 50
+            },
+            "model": "medabots_server:entity/iron_man/stark_industries"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 50
+            },
+            "model": "medabots_server:entity/iron_man/jarvis"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 51
+            },
+            "model": "medabots_server:entity/master_core/master_shadow"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 51
+            },
+            "model": "medabots_server:entity/master_core/master_beast"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 51
+            },
+            "model": "medabots_server:entity/master_core/master_edges"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 51
+            },
+            "model": "medabots_server:entity/master_core/master_giant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 52
+            },
+            "model": "medabots_server:entity/mewtwo/teleport"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 52
+            },
+            "model": "medabots_server:entity/mewtwo/pure_darkness"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 52
+            },
+            "model": "medabots_server:entity/mewtwo/shadow_ball"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 52
+            },
+            "model": "medabots_server:entity/mewtwo/confusion"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 53
+            },
+            "model": "medabots_server:entity/sphere_doomers/doomer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 53
+            },
+            "model": "medabots_server:entity/sphere_doomers/fire_doomer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 53
+            },
+            "model": "medabots_server:entity/sphere_doomers/electric_doomer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 53
+            },
+            "model": "medabots_server:entity/sphere_doomers/ice_doomer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 54
+            },
+            "model": "medabots_server:entity/metal_general/jet_balance"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 54
+            },
+            "model": "medabots_server:entity/metal_general/general_slash"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 54
+            },
+            "model": "medabots_server:entity/metal_general/produce"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 54
+            },
+            "model": "medabots_server:entity/metal_general/full_control"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 55
+            },
+            "model": "medabots_server:entity/smilidonad/sharp_edge"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 55
+            },
+            "model": "medabots_server:entity/smilidonad/straw_hammer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 55
+            },
+            "model": "medabots_server:entity/smilidonad/flexor_sword"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 55
+            },
+            "model": "medabots_server:entity/smilidonad/hunter"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 56
+            },
+            "model": "medabots_server:entity/warbonnet/abduction"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 56
+            },
+            "model": "medabots_server:entity/warbonnet/range_shooter"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 56
+            },
+            "model": "medabots_server:entity/warbonnet/shoot_barrel"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 56
+            },
+            "model": "medabots_server:entity/warbonnet/tension_up"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 57
+            },
+            "model": "medabots_server:entity/primity_baby/umbilical"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 57
+            },
+            "model": "medabots_server:entity/primity_baby/past_feel"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 57
+            },
+            "model": "medabots_server:entity/primity_baby/past_touch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 57
+            },
+            "model": "medabots_server:entity/primity_baby/fracture"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 58
+            },
+            "model": "medabots_server:entity/acehorn/ace_hooves"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 58
+            },
+            "model": "medabots_server:entity/acehorn/recovery"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 58
+            },
+            "model": "medabots_server:entity/acehorn/canceller"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 58
+            },
+            "model": "medabots_server:entity/acehorn/guardian"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 59
+            },
+            "model": "medabots_server:entity/yuchitang/smacker"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 59
+            },
+            "model": "medabots_server:entity/yuchitang/minus_diver"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 59
+            },
+            "model": "medabots_server:entity/yuchitang/plus_diver"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 59
+            },
+            "model": "medabots_server:entity/yuchitang/power_diver"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 60
+            },
+            "model": "medabots_server:entity/ka_o_lantern/squash_basher"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 60
+            },
+            "model": "medabots_server:entity/ka_o_lantern/keen"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 60
+            },
+            "model": "medabots_server:entity/ka_o_lantern/pun"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 60
+            },
+            "model": "medabots_server:entity/ka_o_lantern/pan"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 61
+            },
+            "model": "medabots_server:entity/crimson_king/wannafly"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 61
+            },
+            "model": "medabots_server:entity/crimson_king/dopa_punch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 61
+            },
+            "model": "medabots_server:entity/crimson_king/dondon_punch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 61
+            },
+            "model": "medabots_server:entity/crimson_king/peck_strike"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 62
+            },
+            "model": "medabots_server:entity/metabee/ochitsuka"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 62
+            },
+            "model": "medabots_server:entity/metabee/sub_machine_gun"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 62
+            },
+            "model": "medabots_server:entity/metabee/revolver"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 62
+            },
+            "model": "medabots_server:entity/metabee/missile"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 63
+            },
+            "model": "medabots_server:entity/rokusho/tatacker"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 63
+            },
+            "model": "medabots_server:entity/rokusho/pipo_hammer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 63
+            },
+            "model": "medabots_server:entity/rokusho/sword"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 63
+            },
+            "model": "medabots_server:entity/rokusho/antenna"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 64
+            },
+            "model": "medabots_server:entity/marine_killer/fishtail"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 64
+            },
+            "model": "medabots_server:entity/marine_killer/nibble_wave"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 64
+            },
+            "model": "medabots_server:entity/marine_killer/clinch_wave"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 64
+            },
+            "model": "medabots_server:entity/marine_killer/new_wave"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 65
+            },
+            "model": "medabots_server:entity/pururun_jelly/limptank"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 65
+            },
+            "model": "medabots_server:entity/pururun_jelly/guidemissile"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 65
+            },
+            "model": "medabots_server:entity/pururun_jelly/intermissile"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 65
+            },
+            "model": "medabots_server:entity/pururun_jelly/missilebase"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 66
+            },
+            "model": "medabots_server:entity/le_villain/protoauto"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 66
+            },
+            "model": "medabots_server:entity/le_villain/crime_stick"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 66
+            },
+            "model": "medabots_server:entity/le_villain/tudge_shield"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 66
+            },
+            "model": "medabots_server:entity/le_villain/grave_lane"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 67
+            },
+            "model": "medabots_server:entity/suzumega_hummer/execute"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 67
+            },
+            "model": "medabots_server:entity/suzumega_hummer/light_hammer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 67
+            },
+            "model": "medabots_server:entity/suzumega_hummer/chopper_sword"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 67
+            },
+            "model": "medabots_server:entity/suzumega_hummer/datalink"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 68
+            },
+            "model": "medabots_server:entity/frappe/flavor"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 68
+            },
+            "model": "medabots_server:entity/frappe/flop"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 68
+            },
+            "model": "medabots_server:entity/frappe/flap"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 68
+            },
+            "model": "medabots_server:entity/frappe/flip"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 69
+            },
+            "model": "medabots_server:entity/nin_ninja/tiptoe"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 69
+            },
+            "model": "medabots_server:entity/nin_ninja/ninja_sword"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 69
+            },
+            "model": "medabots_server:entity/nin_ninja/ninja_dagger"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 69
+            },
+            "model": "medabots_server:entity/nin_ninja/cover_up"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 70
+            },
+            "model": "medabots_server:entity/nino/sand_proof_boots"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 70
+            },
+            "model": "medabots_server:entity/nino/excalibur"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 70
+            },
+            "model": "medabots_server:entity/nino/ragnarok"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 70
+            },
+            "model": "medabots_server:entity/nino/bolganone"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 71
+            },
+            "model": "medabots_server:entity/galleom/subspace_crusader"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 71
+            },
+            "model": "medabots_server:entity/galleom/flaming_engine"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 71
+            },
+            "model": "medabots_server:entity/galleom/jet_engine"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 71
+            },
+            "model": "medabots_server:entity/galleom/armored_body"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.015,
+                "custom_model_data": 72
+            },
+            "model": "medabots_server:entity/general_grievous/claw_rush"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.03,
+                "custom_model_data": 72
+            },
+            "model": "medabots_server:entity/general_grievous/trust_surge"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.045,
+                "custom_model_data": 72
+            },
+            "model": "medabots_server:entity/general_grievous/unrelenting_advance"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.06,
+                "custom_model_data": 72
+            },
+            "model": "medabots_server:entity/general_grievous/beating_heart"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/charged_kuwagata_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:item/charged_kabuto_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:item/charged_mermaid_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:item/charged_ghost_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:item/charged_monkey_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:item/charged_spider_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:item/charged_alien_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:item/charged_question_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:item/charged_chameleon_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:item/charged_knight_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:item/charged_unicorn_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:item/charged_devil_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": -1
+            },
+            "model": "medabots_server:item/missing_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 0
+            },
+            "model": "minecraft:item/fishing_rod"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/kuwagata_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:item/kabuto_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:item/mermaid_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:item/ghost_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:item/monkey_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:item/spider_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:item/alien_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:item/question_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:item/chameleon_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:item/knight_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.075,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:item/unicorn_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.09,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:item/devil_medal"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:item/male_tinpet"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/female_tinpet"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:item/neutral_tinpet"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:item/medawatch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:item/camera"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:item/custom_stage"
+        },
+		{
+            "predicate": {
+                "damaged": 1,
+				"damage": 0
+            },
+            "model": "minecraft:item/fishing_rod"
+        }
+    ]
+}

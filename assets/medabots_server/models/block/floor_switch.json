@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "medabots_server:block/torutoru_land_block",
+	"textures": {
+		"glow": "medabots_server:block/empty"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#floor_switch"}
+			}
+		},
+		{
+			"from": [1.5, 0, 1.5],
+			"to": [1.5, 6, 14.5],
+			"faces": {
+				"east": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"},
+				"west": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"}
+			}
+		},
+		{
+			"from": [14.5, 0, 1.5],
+			"to": [14.5, 6, 14.5],
+			"faces": {
+				"east": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"},
+				"west": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"}
+			}
+		},
+		{
+			"from": [1.5, 0, 14.5],
+			"to": [14.5, 6, 14.5],
+			"faces": {
+				"north": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"},
+				"south": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"}
+			}
+		},
+		{
+			"from": [1.5, 0, 1.5],
+			"to": [14.5, 6, 1.5],
+			"faces": {
+				"north": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"},
+				"south": {"uv": [1.5, 10, 14.5, 16], "texture": "#glow"}
+			}
+		}
+	]
+}

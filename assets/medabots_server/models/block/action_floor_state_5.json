@@ -1,0 +1,88 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "medabots_server:block/torutoru_land_block",
+	"textures": {
+		"0": "medabots_server:block/action_floor_x",
+		"1": "medabots_server:block/action_floor_z",
+		"2": "medabots_server:block/action_floor_glow",
+		"3": "medabots_server:block/action_floor_glow_bottom",
+		"particle": "medabots_server:block/action_floor_x"
+	},
+	"elements": [
+		{
+			"from": [0, 0.01, 0],
+			"to": [0.01, 5.01, 16],
+			"rotation": {"angle": 45, "axis": "z", "origin": [0, 0, 8]},
+			"faces": {
+				"east": {"uv": [11, 0, 16, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [11, 0, 16, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"from": [16, 0.01, 0],
+			"to": [16.01, 5.01, 16],
+			"rotation": {"angle": -45, "axis": "z", "origin": [16, 0, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 5, 16], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 0, 5, 16], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 8, 0.01],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 16],
+			"to": [16, 8, 16.01],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 0, 16]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 8], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [0.1, 0, 0.1],
+			"to": [0.1, 7, 15.9],
+			"faces": {
+				"east": {"uv": [0, 9, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 9, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [15.9, 0, 0.1],
+			"to": [15.9, 7, 15.9],
+			"faces": {
+				"east": {"uv": [0, 9, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 9, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0.1, 0, 15.9],
+			"to": [15.9, 7, 15.9],
+			"faces": {
+				"north": {"uv": [0, 9, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 9, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [0.1, 0, 0.1],
+			"to": [15.9, 7, 0.1],
+			"faces": {
+				"north": {"uv": [0, 9, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 9, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "textures": {
+        "empty": "medabots_server:block/empty",
+        "particle": "minecraft:item/barrier"
+    },
+    "elements": [
+        {
+			"from": [ 0, 0, 0 ],
+            "to": [ 0, 0, 0 ],
+            "faces": {
+                "down":  {
+					"texture": "#empty",
+					"cullface": "down" 
+				}
+            }
+        }
+    ]
+}

@@ -1,0 +1,2686 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/diamond_pickaxe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:item/purple_plant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/blue_plant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:item/light_blue_plant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:item/green_plant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:item/yellow_plant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:item/orange_plant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:item/red_plant"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:entity/plant/purple"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:entity/plant/blue"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:entity/plant/light_blue"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:entity/plant/green"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:entity/plant/yellow"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:entity/plant/orange"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:entity/plant/red"
+        },
+        {
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:entity/plant/purple_broken"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:entity/plant/blue_broken"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:entity/plant/light_blue_broken"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 17
+            },
+            "model": "medabots_server:entity/plant/green_broken"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 18
+            },
+            "model": "medabots_server:entity/plant/yellow_broken"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 19
+            },
+            "model": "medabots_server:entity/plant/orange_broken"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0006,
+                "custom_model_data": 20
+            },
+            "model": "medabots_server:entity/plant/red_broken"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0012,
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:item/help"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0012,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/bullet_placeholder"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:entity/guard/body"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:entity/guard/hammer"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:entity/guard/legs/1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:entity/guard/legs/2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:entity/guard/legs/3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:entity/guard/legs/4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:entity/master_hand/hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:entity/master_hand/thumb"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:entity/master_hand/index"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:entity/master_hand/middle"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:entity/master_hand/ring"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:entity/master_hand/pinkie"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:entity/cannon/body"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:entity/cannon/head"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:entity/crazy_hand/hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:entity/crazy_hand/thumb"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:entity/crazy_hand/index"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 17
+            },
+            "model": "medabots_server:entity/crazy_hand/middle"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 18
+            },
+            "model": "medabots_server:entity/crazy_hand/ring"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 19
+            },
+            "model": "medabots_server:entity/crazy_hand/pinkie"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 20
+            },
+            "model": "medabots_server:entity/topmaniac/dormant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 21
+            },
+            "model": "medabots_server:entity/topmaniac/awakening"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 22
+            },
+            "model": "medabots_server:entity/topmaniac/waking"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 23
+            },
+            "model": "medabots_server:entity/topmaniac/active"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 24
+            },
+            "model": "medabots_server:entity/topmaniac/blade"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 25
+            },
+            "model": "medabots_server:entity/topman/body"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 26
+            },
+            "model": "medabots_server:entity/topman/hands"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 27
+            },
+            "model": "medabots_server:entity/bomb"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 28
+            },
+            "model": "medabots_server:entity/balloon_bomb"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 29
+            },
+            "model": "medabots_server:entity/round_stone"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 30
+            },
+            "model": "medabots_server:entity/ice_block"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0018,
+                "custom_model_data": 31
+            },
+            "model": "medabots_server:entity/raft"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:boss_icon/argorok"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:boss_icon/hr_d3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:boss_icon/topmaniac"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:boss_icon/lor_starcutter"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:boss_icon/magolor"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:boss_icon/magolor_soul"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:boss_icon/master_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:boss_icon/crazy_hand"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:boss_icon/master_giant"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:boss_icon/master_beast"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:boss_icon/master_edges"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:boss_icon/galleom"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:boss_icon/dimentio"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:boss_icon/landia"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:boss_icon/boolossus"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:boss_icon/whomp_king"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.003,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:tab_icon/bosses"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:item/stage_build_item"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 1
+            },
+            "model": "minecraft:item/diamond_pickaxe"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 2
+            },
+            "model": "medabots_server:block/chess_field"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 3
+            },
+            "model": "medabots_server:block/white_pawn"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 4
+            },
+            "model": "medabots_server:block/white_rook"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 5
+            },
+            "model": "medabots_server:block/white_knight"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:block/white_bishop"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:block/white_queen"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 8
+            },
+            "model": "medabots_server:block/white_king"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 9
+            },
+            "model": "medabots_server:block/black_pawn"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 10
+            },
+            "model": "medabots_server:block/black_rook"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 11
+            },
+            "model": "medabots_server:block/black_knight"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 12
+            },
+            "model": "medabots_server:block/black_bishop"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 13
+            },
+            "model": "medabots_server:block/black_queen"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 14
+            },
+            "model": "medabots_server:block/black_king"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 15
+            },
+            "model": "medabots_server:block/fan_base"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 16
+            },
+            "model": "medabots_server:block/fan_blades"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 17
+            },
+            "model": "medabots_server:block/laser_trap"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 18
+            },
+            "model": "medabots_server:block/accelerator"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 19
+            },
+            "model": "medabots_server:block/accelerator_accel"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 20
+            },
+            "model": "medabots_server:block/door_closed"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 21
+            },
+            "model": "medabots_server:block/door_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 22
+            },
+            "model": "medabots_server:block/door_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 23
+            },
+            "model": "medabots_server:block/door_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 24
+            },
+            "model": "medabots_server:block/door_state_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 25
+            },
+            "model": "medabots_server:block/door_open"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 26
+            },
+            "model": "medabots_server:block/green_floor_switch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 27
+            },
+            "model": "medabots_server:block/activated_green_floor_switch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 28
+            },
+            "model": "medabots_server:block/yellow_floor_switch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 29
+            },
+            "model": "medabots_server:block/activated_yellow_floor_switch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 30
+            },
+            "model": "medabots_server:block/blue_floor_switch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 31
+            },
+            "model": "medabots_server:block/activated_blue_floor_switch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 32
+            },
+            "model": "medabots_server:block/jammy"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 33
+            },
+            "model": "medabots_server:block/alarm"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 34
+            },
+            "model": "medabots_server:block/alarm_ringing"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 35
+            },
+            "model": "medabots_server:block/action_floor_closed"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 36
+            },
+            "model": "medabots_server:block/action_floor_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 37
+            },
+            "model": "medabots_server:block/action_floor_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 38
+            },
+            "model": "medabots_server:block/action_floor_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 39
+            },
+            "model": "medabots_server:block/action_floor_state_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 40
+            },
+            "model": "medabots_server:block/action_floor_state_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 41
+            },
+            "model": "medabots_server:block/action_floor_state_5"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 42
+            },
+            "model": "medabots_server:block/action_floor_state_6"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 43
+            },
+            "model": "medabots_server:block/action_floor_open"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 44
+            },
+            "model": "medabots_server:block/pot"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 45
+            },
+            "model": "medabots_server:block/algae"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 46
+            },
+            "model": "medabots_server:block/drawbridge"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 47
+            },
+            "model": "medabots_server:block/drawbridge_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 48
+            },
+            "model": "medabots_server:block/drawbridge_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 49
+            },
+            "model": "medabots_server:block/drawbridge_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 50
+            },
+            "model": "medabots_server:block/drawbridge_down"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 51
+            },
+            "model": "medabots_server:block/mirror"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 52
+            },
+            "model": "medabots_server:block/mirror_slab"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 53
+            },
+            "model": "medabots_server:block/spring_wall"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 54
+            },
+            "model": "medabots_server:block/spring_wall_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 55
+            },
+            "model": "medabots_server:block/spring_wall_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 56
+            },
+            "model": "medabots_server:block/spring_wall_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 57
+            },
+            "model": "medabots_server:block/spring_wall_state_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 58
+            },
+            "model": "medabots_server:block/spring_wall_state_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 59
+            },
+            "model": "medabots_server:block/spring_wall_state_5"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 60
+            },
+            "model": "medabots_server:block/hammer_punch"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 61
+            },
+            "model": "medabots_server:block/hammer_punch_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 62
+            },
+            "model": "medabots_server:block/hammer_punch_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 63
+            },
+            "model": "medabots_server:block/hammer_punch_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 64
+            },
+            "model": "medabots_server:block/hammer_punch_state_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 65
+            },
+            "model": "medabots_server:block/hammer_punch_state_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 66
+            },
+            "model": "medabots_server:block/press_wall"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 67
+            },
+            "model": "medabots_server:block/press_wall_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 68
+            },
+            "model": "medabots_server:block/press_wall_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 69
+            },
+            "model": "medabots_server:block/press_wall_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 70
+            },
+            "model": "medabots_server:block/press_wall_state_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 71
+            },
+            "model": "medabots_server:block/press_wall_state_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 72
+            },
+            "model": "medabots_server:block/press_wall_state_5"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 73
+            },
+            "model": "medabots_server:block/press_wall_state_6"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 74
+            },
+            "model": "medabots_server:block/press_wall_state_7"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 75
+            },
+            "model": "medabots_server:block/press_wall_state_8"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 76
+            },
+            "model": "medabots_server:block/press_wall_state_9"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 77
+            },
+            "model": "medabots_server:block/press_wall_state_10"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 78
+            },
+            "model": "medabots_server:block/press_wall_state_11"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 79
+            },
+            "model": "medabots_server:block/press_wall_state_12"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 80
+            },
+            "model": "medabots_server:block/press_wall_state_13"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 81
+            },
+            "model": "medabots_server:block/press_wall_state_14"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 82
+            },
+            "model": "medabots_server:block/press_wall_state_15"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 83
+            },
+            "model": "medabots_server:block/press_wall_state_16"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 84
+            },
+            "model": "medabots_server:block/press_wall_state_17"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 85
+            },
+            "model": "medabots_server:block/press_wall_state_18"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 86
+            },
+            "model": "medabots_server:block/press_wall_state_19"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 87
+            },
+            "model": "medabots_server:block/press_wall_state_20"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 88
+            },
+            "model": "medabots_server:block/press_wall_state_21"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 89
+            },
+            "model": "medabots_server:block/press_wall_state_22"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 90
+            },
+            "model": "medabots_server:block/press_wall_state_23"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 91
+            },
+            "model": "medabots_server:block/press_wall_state_24"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 92
+            },
+            "model": "medabots_server:block/press_wall_state_25"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 93
+            },
+            "model": "medabots_server:block/press_wall_state_26"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 94
+            },
+            "model": "medabots_server:block/press_wall_state_27"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 95
+            },
+            "model": "medabots_server:block/press_wall_state_28"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 96
+            },
+            "model": "medabots_server:block/press_wall_state_29"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 97
+            },
+            "model": "medabots_server:block/press_wall_state_30"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 98
+            },
+            "model": "medabots_server:block/press_wall_state_31"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 99
+            },
+            "model": "medabots_server:block/press_wall_state_32"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 100
+            },
+            "model": "medabots_server:block/press_wall_state_33"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 101
+            },
+            "model": "medabots_server:block/press_wall_state_34"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 102
+            },
+            "model": "medabots_server:block/press_wall_state_35"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 103
+            },
+            "model": "medabots_server:block/press_wall_state_36"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 104
+            },
+            "model": "medabots_server:block/press_wall_state_37"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 105
+            },
+            "model": "medabots_server:block/press_wall_state_38"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 106
+            },
+            "model": "medabots_server:block/press_wall_state_39"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 107
+            },
+            "model": "medabots_server:block/press_wall_state_40"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 108
+            },
+            "model": "medabots_server:block/press_wall_state_41"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 109
+            },
+            "model": "medabots_server:block/press_wall_state_42"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 110
+            },
+            "model": "medabots_server:block/press_wall_state_43"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 111
+            },
+            "model": "medabots_server:block/press_wall_state_44"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 112
+            },
+            "model": "medabots_server:block/press_wall_state_45"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 113
+            },
+            "model": "medabots_server:block/press_wall_state_46"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 114
+            },
+            "model": "medabots_server:block/press_wall_state_47"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 115
+            },
+            "model": "medabots_server:block/press_wall_state_48"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 116
+            },
+            "model": "medabots_server:block/press_wall_state_49"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 117
+            },
+            "model": "medabots_server:block/press_wall_state_50"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 118
+            },
+            "model": "medabots_server:block/press_wall_state_51"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 119
+            },
+            "model": "medabots_server:block/press_wall_state_52"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 120
+            },
+            "model": "medabots_server:block/press_wall_state_53"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 121
+            },
+            "model": "medabots_server:block/press_wall_state_54"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 122
+            },
+            "model": "medabots_server:block/press_wall_state_55"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 123
+            },
+            "model": "medabots_server:block/press_wall_state_56"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 124
+            },
+            "model": "medabots_server:block/press_wall_state_57"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 125
+            },
+            "model": "medabots_server:block/press_wall_state_58"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 126
+            },
+            "model": "medabots_server:block/press_wall_state_59"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 127
+            },
+            "model": "medabots_server:block/press_wall_state_60"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 128
+            },
+            "model": "medabots_server:block/press_wall_state_61"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 129
+            },
+            "model": "medabots_server:block/press_wall_state_62"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 130
+            },
+            "model": "medabots_server:block/press_wall_state_63"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 131
+            },
+            "model": "medabots_server:block/press_wall_state_64"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 132
+            },
+            "model": "medabots_server:block/press_wall_state_65"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 133
+            },
+            "model": "medabots_server:block/press_wall_state_66"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 134
+            },
+            "model": "medabots_server:block/press_wall_state_67"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 135
+            },
+            "model": "medabots_server:block/press_wall_state_68"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 136
+            },
+            "model": "medabots_server:block/press_wall_state_69"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 137
+            },
+            "model": "medabots_server:block/press_wall_state_70"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 138
+            },
+            "model": "medabots_server:block/press_wall_state_71"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 139
+            },
+            "model": "medabots_server:block/press_wall_state_72"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 140
+            },
+            "model": "medabots_server:block/press_wall_state_73"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 141
+            },
+            "model": "medabots_server:block/press_wall_state_74"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 142
+            },
+            "model": "medabots_server:block/press_wall_state_75"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 143
+            },
+            "model": "medabots_server:block/press_wall_state_76"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 144
+            },
+            "model": "medabots_server:block/press_wall_state_77"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 145
+            },
+            "model": "medabots_server:block/press_wall_state_78"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 146
+            },
+            "model": "medabots_server:block/press_wall_state_79"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 147
+            },
+            "model": "medabots_server:block/press_wall_state_80"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 148
+            },
+            "model": "medabots_server:block/press_wall_state_81"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 149
+            },
+            "model": "medabots_server:block/press_wall_state_82"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 150
+            },
+            "model": "medabots_server:block/press_wall_state_83"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 151
+            },
+            "model": "medabots_server:block/press_wall_state_84"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 152
+            },
+            "model": "medabots_server:block/press_wall_state_85"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 153
+            },
+            "model": "medabots_server:block/press_wall_state_86"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 154
+            },
+            "model": "medabots_server:block/press_wall_state_87"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 155
+            },
+            "model": "medabots_server:block/press_wall_state_88"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 156
+            },
+            "model": "medabots_server:block/press_wall_state_89"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 157
+            },
+            "model": "medabots_server:block/press_wall_state_90"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 158
+            },
+            "model": "medabots_server:block/press_wall_state_91"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 159
+            },
+            "model": "medabots_server:block/press_wall_state_92"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 160
+            },
+            "model": "medabots_server:block/press_wall_state_93"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 161
+            },
+            "model": "medabots_server:block/press_wall_state_94"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 162
+            },
+            "model": "medabots_server:block/press_wall_state_95"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 163
+            },
+            "model": "medabots_server:block/press_wall_state_96"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 164
+            },
+            "model": "medabots_server:block/press_wall_state_97"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 165
+            },
+            "model": "medabots_server:block/press_wall_state_98"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 166
+            },
+            "model": "medabots_server:block/press_wall_state_99"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 167
+            },
+            "model": "medabots_server:block/press_wall_state_100"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 168
+            },
+            "model": "medabots_server:block/press_wall_state_101"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 169
+            },
+            "model": "medabots_server:block/press_wall_state_102"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 170
+            },
+            "model": "medabots_server:block/press_wall_state_103"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 171
+            },
+            "model": "medabots_server:block/press_wall_state_104"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 172
+            },
+            "model": "medabots_server:block/press_wall_state_105"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 173
+            },
+            "model": "medabots_server:block/press_wall_state_106"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 174
+            },
+            "model": "medabots_server:block/press_wall_state_107"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 175
+            },
+            "model": "medabots_server:block/press_wall_state_108"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 176
+            },
+            "model": "medabots_server:block/press_wall_state_109"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 177
+            },
+            "model": "medabots_server:block/press_wall_state_110"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 178
+            },
+            "model": "medabots_server:block/press_wall_state_111"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 179
+            },
+            "model": "medabots_server:block/press_wall_state_112"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 180
+            },
+            "model": "medabots_server:block/press_wall_state_113"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 181
+            },
+            "model": "medabots_server:block/press_wall_state_114"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 182
+            },
+            "model": "medabots_server:block/press_wall_state_115"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 183
+            },
+            "model": "medabots_server:block/press_wall_state_116"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 184
+            },
+            "model": "medabots_server:block/press_wall_state_117"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 185
+            },
+            "model": "medabots_server:block/press_wall_state_118"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 186
+            },
+            "model": "medabots_server:block/press_wall_state_119"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 187
+            },
+            "model": "medabots_server:block/press_wall_state_120"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 188
+            },
+            "model": "medabots_server:block/press_wall_state_121"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 189
+            },
+            "model": "medabots_server:block/press_wall_state_122"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 190
+            },
+            "model": "medabots_server:block/press_wall_state_123"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 191
+            },
+            "model": "medabots_server:block/press_wall_state_124"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 192
+            },
+            "model": "medabots_server:block/press_wall_state_125"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 193
+            },
+            "model": "medabots_server:block/press_wall_state_126"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 194
+            },
+            "model": "medabots_server:block/press_wall_state_127"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 195
+            },
+            "model": "medabots_server:block/press_wall_state_128"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 196
+            },
+            "model": "medabots_server:block/press_wall_state_129"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 197
+            },
+            "model": "medabots_server:block/press_wall_state_130"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 198
+            },
+            "model": "medabots_server:block/press_wall_state_131"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 199
+            },
+            "model": "medabots_server:block/press_wall_state_132"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 200
+            },
+            "model": "medabots_server:block/press_wall_state_133"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 201
+            },
+            "model": "medabots_server:block/press_wall_state_134"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 202
+            },
+            "model": "medabots_server:block/press_wall_state_135"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 203
+            },
+            "model": "medabots_server:block/press_wall_state_136"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 204
+            },
+            "model": "medabots_server:block/press_wall_state_137"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 205
+            },
+            "model": "medabots_server:block/press_wall_state_138"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 206
+            },
+            "model": "medabots_server:block/press_wall_state_139"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 207
+            },
+            "model": "medabots_server:block/press_wall_state_140"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 208
+            },
+            "model": "medabots_server:block/press_wall_state_141"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 209
+            },
+            "model": "medabots_server:block/press_wall_state_142"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 210
+            },
+            "model": "medabots_server:block/press_wall_state_143"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 211
+            },
+            "model": "medabots_server:block/press_wall_state_144"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 212
+            },
+            "model": "medabots_server:block/press_wall_state_145"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 213
+            },
+            "model": "medabots_server:block/press_wall_state_146"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 214
+            },
+            "model": "medabots_server:block/press_wall_state_147"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 215
+            },
+            "model": "medabots_server:block/press_wall_state_148"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 216
+            },
+            "model": "medabots_server:block/press_wall_state_149"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 217
+            },
+            "model": "medabots_server:block/press_wall_state_150"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 218
+            },
+            "model": "medabots_server:block/press_wall_state_151"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 219
+            },
+            "model": "medabots_server:block/press_wall_state_152"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 220
+            },
+            "model": "medabots_server:block/press_wall_state_153"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 221
+            },
+            "model": "medabots_server:block/press_wall_state_154"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 222
+            },
+            "model": "medabots_server:block/press_wall_state_155"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 223
+            },
+            "model": "medabots_server:block/press_wall_state_156"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 224
+            },
+            "model": "medabots_server:block/press_wall_state_157"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 225
+            },
+            "model": "medabots_server:block/press_wall_state_158"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 226
+            },
+            "model": "medabots_server:block/press_wall_state_159"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 227
+            },
+            "model": "medabots_server:block/press_wall_state_160"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 228
+            },
+            "model": "medabots_server:block/press_wall_state_161"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 229
+            },
+            "model": "medabots_server:block/press_wall_state_162"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 230
+            },
+            "model": "medabots_server:block/press_wall_state_163"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 231
+            },
+            "model": "medabots_server:block/press_wall_state_164"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 232
+            },
+            "model": "medabots_server:block/press_wall_state_165"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 233
+            },
+            "model": "medabots_server:block/press_wall_state_166"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 234
+            },
+            "model": "medabots_server:block/press_wall_state_167"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 235
+            },
+            "model": "medabots_server:block/press_wall_state_168"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 236
+            },
+            "model": "medabots_server:block/press_wall_state_169"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 237
+            },
+            "model": "medabots_server:block/press_wall_state_170"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 238
+            },
+            "model": "medabots_server:block/press_wall_state_171"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 239
+            },
+            "model": "medabots_server:block/press_wall_state_172"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 240
+            },
+            "model": "medabots_server:block/press_wall_state_173"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 241
+            },
+            "model": "medabots_server:block/press_wall_state_174"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 242
+            },
+            "model": "medabots_server:block/press_wall_state_175"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 243
+            },
+            "model": "medabots_server:block/press_wall_state_176"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 244
+            },
+            "model": "medabots_server:block/press_wall_state_177"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 245
+            },
+            "model": "medabots_server:block/press_wall_state_178"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 246
+            },
+            "model": "medabots_server:block/gas_floor"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 247
+            },
+            "model": "medabots_server:block/gas_floor_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 248
+            },
+            "model": "medabots_server:block/gas_floor_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 249
+            },
+            "model": "medabots_server:block/gas_floor_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 250
+            },
+            "model": "medabots_server:block/gas_floor_state_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 251
+            },
+            "model": "medabots_server:block/gas_floor_state_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 253
+            },
+            "model": "medabots_server:block/starting_area"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 254
+            },
+            "model": "medabots_server:block/goal_area"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 255
+            },
+            "model": "medabots_server:block/bridge"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 256
+            },
+            "model": "medabots_server:block/hole"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 257
+            },
+            "model": "medabots_server:block/hole_state_0"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 258
+            },
+            "model": "medabots_server:block/hole_state_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 259
+            },
+            "model": "medabots_server:block/hole_state_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 260
+            },
+            "model": "medabots_server:block/hole_state_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 261
+            },
+            "model": "medabots_server:block/hole_state_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0042,
+                "custom_model_data": 262
+            },
+            "model": "medabots_server:block/hole_closed"
+        },
+		{
+            "predicate": {
+                "damaged": 1
+            },
+            "model": "minecraft:item/diamond_pickaxe"
+        }
+    ]
+}
