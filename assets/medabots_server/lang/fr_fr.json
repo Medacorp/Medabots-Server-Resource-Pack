@@ -2,9 +2,7 @@
 "Please turn the Resource Pack on.": "",
 "//Awaiting resource pack validation": "Awaiting resource pack validation",
 "%1$s": "%2$s",
-
 "Medabots server resource pack": "Pack de ressources du serveur Medabots",
-
 "medabots_server:advancements.bosses.arena": "L’arène contient des boss exclusifs.",
 "medabots_server:advancements.bosses.argorok": "Le dragon du crépuscule : Argorok",
 "medabots_server:advancements.bosses.argorok.description": "Argorok est un dragon ailé, féroce et couvert d’une armure provenant du royaume du crépuscule. Peut-être qu’il est isolé de tous car il ne peut pas voler au ras du sol… il n’y aurait-t’il pas un endroit où nous pourrions nous y accrocher ?",
@@ -392,7 +390,6 @@
 "//medabots_server:advancements.stages.version": "Clear %s on version %s",
 "//medabots_server:advancements.stages.version.dimentio": "Clear %s on version %s with Dimentio joining the battle",
 "//medabots_server:advancements.stages.wave": "Clear all stages of wave %s!",
-
 "//medabots_server:block.accelerator": "Accelerator",
 "//medabots_server:block.action_floor": "Action Floor",
 "//medabots_server:block.alarm": "Alarm",
@@ -434,9 +431,7 @@
 "//medabots_server:block.thin_ice": "Thin Ice",
 "//medabots_server:block.wall": "Wall",
 "//medabots_server:block.whirlpool": "Whirlpool",
-
 "medabots_server:data_pack.description": "Pack de données du serveur Medabots",
-
 "//medabots_server:death.anti_fly": "%s got taken out by anti-fly weaponry.",
 "//medabots_server:death.anti_fly.2_killers": "%s got taken out by %s's anti-fly weaponry while fighting %s.",
 "//medabots_server:death.anti_fly.killer": "%s got taken out by %s's anti-fly weaponry.",
@@ -654,7 +649,6 @@
 "//medabots_server:death.whirlpool": "%s got sucked down a whirlpool.",
 "//medabots_server:death.whirlpool.2_killers": "%s got sucked down a whirlpool while fighting %s and %s.",
 "//medabots_server:death.whirlpool.killer": "%s got sucked down a whirlpool while fighting %s.",
-
 "//medabots_server:dialog.choice.no": "No.",
 "//medabots_server:dialog.choice.yes": "Yes.",
 "//medabots_server:dialog.infinity.blue_man_defeated.1": "Darnit!",
@@ -6977,7 +6971,6 @@
 "//medabots_server:dialog.tutorial.7": "If you fall in deep water, you will short-circuit if you do not have swim Medaparts.",
 "//medabots_server:dialog.tutorial.8": "In shallow water, you are fine; go ahead, cross the water.",
 "//medabots_server:dialog.tutorial.9": "Next up, we're going to talk about the Medaparts.",
-
 "//medabots_server:effect.auxiliary_charged": "Auxiliary Charged",
 "//medabots_server:effect.blocked_medaforce": "Blocked Medaforce",
 "//medabots_server:effect.bugged": "Bugged",
@@ -6997,7 +6990,6 @@
 "//medabots_server:effect.perfectly_guarding": "Perfectly Guarding",
 "//medabots_server:effect.scouting": "Scouting",
 "//medabots_server:effect.transformed": "Transformed %s",
-
 "//medabots_server:entity.abyss_greater": "Abyss Greater",
 "//medabots_server:entity.acehorn": "Acehorn",
 "//medabots_server:entity.aimflash": "Aimflash",
@@ -7154,7 +7146,6 @@
 "//medabots_server:entity.walk_detection": "%s Walk Detection",
 "//medabots_server:entity.yuchitang": "Yuchitang",
 "//medabots_server:entity.zant": "Zant",
-
 "//medabots_server:item.abyss_greater_burst": "Burst",
 "//medabots_server:item.abyss_greater_burst.model": "KNG00-M-2",
 "//medabots_server:item.abyss_greater_depth_sole": "Depth-Sole",
@@ -8039,7 +8030,6 @@
 "//medabots_server:item.zant_usurper_scimitar.model": "TWI02-M-3",
 "//medabots_server:item.zant_zant_helmet": "Zant Helmet",
 "//medabots_server:item.zant_zant_helmet.model": "TWI02-M-1",
-
 "//medabots_server:location.another_dimension": "Another Dimension",
 "//medabots_server:location.arena": "Arena",
 "//medabots_server:location.boxer": "Boxer",
@@ -8123,7 +8113,6 @@
 "//medabots_server:location.snowfield_e": "Snowfield E",
 "//medabots_server:location.subspace": "Subspace",
 "//medabots_server:location.woods_battle": "Woods Battle",
-
 "//medabots_server:message.abyss_greater.intro.1": "I'll send you straight to Valhalla!",
 "//medabots_server:message.abyss_greater.intro.2": "You're standing in front of the abyss!",
 "//medabots_server:message.abyss_greater.intro.3": "For glory!",
@@ -8541,6 +8530,8 @@
 "//medabots_server:message.medawatch.check_tasks.already_cleared": "This task was already cleared.",
 "//medabots_server:message.medawatch.check_tasks.blacklisted": "%s is now blacklisted from creating further player reports.",
 "//medabots_server:message.medawatch.check_tasks.clear": "I cleared the following task: %s",
+"//medabots_server:message.medawatch.check_tasks.clear.report": "I cleared the following report: %s",
+"//medabots_server:message.medawatch.check_tasks.clear.report.click": "Click to message your fellow moderators.",
 "//medabots_server:message.medawatch.check_tasks.create": "Create task.",
 "//medabots_server:message.medawatch.check_tasks.create.1": "Without stopping to use the Medawatch, write in the book and quill's first page only, the task/report you want to create. Give it the title \"all\", \"personal\", \"report\", or \"moderator\" to add it to the corresponding list. You can only assign personal tasks to yourself. The report category is reserved for reporting other players; abusing this category will result in blacklisting from reporting.",
 "//medabots_server:message.medawatch.check_tasks.create.blacklisted": "You're not allowed to create player reports anymore due to prior abuse of the category.",
@@ -9448,11 +9439,13 @@
 "//medabots_server:message.stage.version.action_floors": "Action Floors",
 "//medabots_server:message.stage.version.action_floors_x": "Action Floors %s",
 "//medabots_server:message.stage.version.balloon_bombs": "Balloon Bombs",
+"//medabots_server:message.stage.version.build": "Build",
+"//medabots_server:message.stage.version.build.description": "Create your own custom stage version.",
 "//medabots_server:message.stage.version.cannons": "Cannons",
 "//medabots_server:message.stage.version.cannons_x": "Cannons %s",
 "//medabots_server:message.stage.version.challenge": "Challenge",
 "//medabots_server:message.stage.version.custom": "Custom",
-"//medabots_server:message.stage.version.custom.description": "Select a custom stage item in the rightmost hotbar slot to play it, or none to build one.",
+"//medabots_server:message.stage.version.custom.description": "Select a custom stage item in the rightmost hotbar slot to play it.",
 "//medabots_server:message.stage.version.darkness": "Darkness",
 "//medabots_server:message.stage.version.dev": "Dev (%s)",
 "//medabots_server:message.stage.version.doors": "Doors",
@@ -9545,7 +9538,6 @@
 "//medabots_server:message.zant.kill.1": "Someday I may fall, but it shall not be to you!",
 "//medabots_server:message.zant.kill.2": "Huh? Stand up!",
 "//medabots_server:message.zant.kill.3": "YEAAAAHHH... Heh... Heh...",
-
 "//medabots_server:move.alien_medal": "Random Change",
 "//medabots_server:move.alien_medal.description": "Chooses a random medaforce.",
 "//medabots_server:move.anti_fly": "Anti-Fly",
@@ -9670,7 +9662,6 @@
 "//medabots_server:move.wave.description": "Blows others, Rafts and Balloon Bombs away.",
 "//medabots_server:move.wheel": "Wheel",
 "//medabots_server:move.wheel.description": "Allows you to go really fast.",
-
 "//medabots_server:scoreboard.bossbar.time": "Time: %s%s:%s%s:%s%s",
 "//medabots_server:scoreboard.objective.head_armor": "Head Armor: %s%s%s%s",
 "//medabots_server:scoreboard.objective.head_uses_left": "Head Uses Left: %s%s%s%s",
@@ -9688,7 +9679,6 @@
 "//medabots_server:scoreboard.team.neutral_medabot": "Neutral Medabot",
 "//medabots_server:scoreboard.team.stage_boss": "Stage Boss",
 "//medabots_server:scoreboard.team.stage_enemy": "Stage Enemy",
-
 "//medabots_server:settings.action_mode": "Action mode: %s",
 "//medabots_server:settings.arena_type": "Arena type: %s",
 "//medabots_server:settings.attack": "Attack indicator: On",
@@ -9749,7 +9739,6 @@
 "//medabots_server:settings.value.short": "Short",
 "//medabots_server:settings.vs_cpus": "Versus computer enemies: %s",
 "//medabots_server:settings.world": "Click to see and alter your world settings.",
-
 "//medabots_server:sign.apartment_building.2_floors": "2 floors",
 "//medabots_server:sign.apartment_building.back_view": "Back view",
 "//medabots_server:sign.apartment_building.front_view": "Front view",
@@ -10031,7 +10020,6 @@
 "//medabots_server:sign.statue.ultimategold.medabot.1": "Arcbeetle and",
 "//medabots_server:sign.statue.ultimategold.medabot.2": "Amelia",
 "//medabots_server:sign.statue.using": "using",
-
 "//medabots_server:subtitles.ambient.fly_course_fallout": "Fallout timer warns",
 "//medabots_server:subtitles.block.accelerator": "Entity accelerates",
 "//medabots_server:subtitles.block.action_floor": "Action Floor spawns entity",

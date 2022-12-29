@@ -450,7 +450,7 @@
 				"damage": 0.003,
                 "custom_model_data": 0
             },
-            "model": "medabots_server:boss_icon/argorok"
+            "model": "medabots_server:advancement_icon/bosses/argorok"
         },
 		{
             "predicate": {
@@ -458,7 +458,7 @@
 				"damage": 0.003,
                 "custom_model_data": 1
             },
-            "model": "medabots_server:boss_icon/hr_d3"
+            "model": "medabots_server:advancement_icon/bosses/hr_d3"
         },
 		{
             "predicate": {
@@ -466,7 +466,7 @@
 				"damage": 0.003,
                 "custom_model_data": 2
             },
-            "model": "medabots_server:boss_icon/topmaniac"
+            "model": "medabots_server:advancement_icon/bosses/topmaniac"
         },
 		{
             "predicate": {
@@ -474,7 +474,7 @@
 				"damage": 0.003,
                 "custom_model_data": 3
             },
-            "model": "medabots_server:boss_icon/lor_starcutter"
+            "model": "medabots_server:advancement_icon/bosses/lor_starcutter"
         },
 		{
             "predicate": {
@@ -482,7 +482,7 @@
 				"damage": 0.003,
                 "custom_model_data": 4
             },
-            "model": "medabots_server:boss_icon/magolor"
+            "model": "medabots_server:advancement_icon/bosses/magolor"
         },
 		{
             "predicate": {
@@ -490,7 +490,7 @@
 				"damage": 0.003,
                 "custom_model_data": 5
             },
-            "model": "medabots_server:boss_icon/magolor_soul"
+            "model": "medabots_server:advancement_icon/bosses/magolor_soul"
         },
 		{
             "predicate": {
@@ -498,7 +498,7 @@
 				"damage": 0.003,
                 "custom_model_data": 6
             },
-            "model": "medabots_server:boss_icon/master_hand"
+            "model": "medabots_server:advancement_icon/bosses/master_hand"
         },
 		{
             "predicate": {
@@ -506,7 +506,7 @@
 				"damage": 0.003,
                 "custom_model_data": 7
             },
-            "model": "medabots_server:boss_icon/crazy_hand"
+            "model": "medabots_server:advancement_icon/bosses/crazy_hand"
         },
 		{
             "predicate": {
@@ -514,7 +514,7 @@
 				"damage": 0.003,
                 "custom_model_data": 8
             },
-            "model": "medabots_server:boss_icon/master_giant"
+            "model": "medabots_server:advancement_icon/bosses/master_giant"
         },
 		{
             "predicate": {
@@ -522,7 +522,7 @@
 				"damage": 0.003,
                 "custom_model_data": 9
             },
-            "model": "medabots_server:boss_icon/master_beast"
+            "model": "medabots_server:advancement_icon/bosses/master_beast"
         },
 		{
             "predicate": {
@@ -530,7 +530,7 @@
 				"damage": 0.003,
                 "custom_model_data": 10
             },
-            "model": "medabots_server:boss_icon/master_edges"
+            "model": "medabots_server:advancement_icon/bosses/master_edges"
         },
 		{
             "predicate": {
@@ -538,7 +538,7 @@
 				"damage": 0.003,
                 "custom_model_data": 11
             },
-            "model": "medabots_server:boss_icon/galleom"
+            "model": "medabots_server:advancement_icon/bosses/galleom"
         },
 		{
             "predicate": {
@@ -546,7 +546,7 @@
 				"damage": 0.003,
                 "custom_model_data": 12
             },
-            "model": "medabots_server:boss_icon/dimentio"
+            "model": "medabots_server:advancement_icon/bosses/dimentio"
         },
 		{
             "predicate": {
@@ -554,7 +554,7 @@
 				"damage": 0.003,
                 "custom_model_data": 13
             },
-            "model": "medabots_server:boss_icon/landia"
+            "model": "medabots_server:advancement_icon/bosses/landia"
         },
 		{
             "predicate": {
@@ -562,7 +562,7 @@
 				"damage": 0.003,
                 "custom_model_data": 14
             },
-            "model": "medabots_server:boss_icon/boolossus"
+            "model": "medabots_server:advancement_icon/bosses/boolossus"
         },
 		{
             "predicate": {
@@ -570,7 +570,7 @@
 				"damage": 0.003,
                 "custom_model_data": 15
             },
-            "model": "medabots_server:boss_icon/whomp_king"
+            "model": "medabots_server:advancement_icon/bosses/whomp_king"
         },
 		{
             "predicate": {
@@ -578,7 +578,7 @@
 				"damage": 0.003,
                 "custom_model_data": 16
             },
-            "model": "medabots_server:tab_icon/bosses"
+            "model": "medabots_server:advancement_icon/bosses"
         },
 		{
             "predicate": {

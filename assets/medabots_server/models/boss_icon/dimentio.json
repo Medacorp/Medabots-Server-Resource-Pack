@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-	"textures": {
-        "layer0": "medabots_server:gui/advancements/boss_icons/dimentio"
-    }
-}

@@ -1,6 +1,5 @@
 {
 "Medabots server resource pack": "Medabotsserverbronpakket",
-
 "medabots_server:advancements.bosses.arena": "De arena is thuis voor wat exclusive bazen.",
 "medabots_server:advancements.bosses.argorok": "Schemerige draak: Argorok",
 "medabots_server:advancements.bosses.argorok.description": "Argorok is een woeste, bepanserde gevleugelde draak van het schemer rijk. Misschien is het eenzaam omdat het niet naar beneden naar de grond kan vliegen... Is er niet ergens iets waar we er aan kunnen hangen?",
@@ -388,7 +387,6 @@
 "medabots_server:advancements.stages.version": "Haal %s op versie %s",
 "medabots_server:advancements.stages.version.dimentio": "Haal %s op versie %s terwijl Dimentio meedoet in het gevecht",
 "medabots_server:advancements.stages.wave": "Haal alle levels van golf %s!",
-
 "medabots_server:block.accelerator": "Versneller",
 "medabots_server:block.action_floor": "Actievloer",
 "medabots_server:block.alarm": "Alarm",
@@ -430,9 +428,7 @@
 "medabots_server:block.thin_ice": "Dun ijs",
 "medabots_server:block.wall": "Muur",
 "medabots_server:block.whirlpool": "Draaikolk",
-
 "medabots_server:data_pack.description": "Medabotsserverdatapakket",
-
 "medabots_server:death.anti_fly": "%s werdt neergehaald door een anti-vlieg wapen.",
 "medabots_server:death.anti_fly.2_killers": "%s werdt neergehaald door %s's anti-vlieg wapen tijdens het vechten met %s.",
 "medabots_server:death.anti_fly.killer": "%s werdt neergehaald door %s's anti-vlieg wapen.",
@@ -650,7 +646,6 @@
 "medabots_server:death.whirlpool": "%s werd door een draaikolk opgeslokt.",
 "medabots_server:death.whirlpool.2_killers": "%s werd door een draaikolk opgeslokt tijdens het vechten met %s en %s.",
 "medabots_server:death.whirlpool.killer": "%s werd door een draaikolk opgeslokt tijdens het vechten met %s.",
-
 "medabots_server:dialog.choice.no": "Nee.",
 "medabots_server:dialog.choice.yes": "Ja.",
 "medabots_server:dialog.infinity.blue_man_defeated.1": "Verdorie!",
@@ -6973,7 +6968,6 @@
 "medabots_server:dialog.tutorial.7": "Als je in diep water valt, krijg je kortsluiting als je niet zwem Medaparts hebt.",
 "medabots_server:dialog.tutorial.8": "In ondiep water, ben je ok; ga je gang, steek het water over.",
 "medabots_server:dialog.tutorial.9": "Als volgende, gaan we praten over de Medaparts.",
-
 "medabots_server:effect.auxiliary_charged": "Hulpheffen",
 "medabots_server:effect.blocked_medaforce": "Geblokkeerde medaforce",
 "medabots_server:effect.bugged": "Bugged",
@@ -6993,7 +6987,6 @@
 "medabots_server:effect.perfectly_guarding": "Perfect aan het beschermen",
 "medabots_server:effect.scouting": "Verkennen",
 "medabots_server:effect.transformed": "Getransformeerd %s",
-
 "medabots_server:entity.abyss_greater": "Afgrond groter",
 "medabots_server:entity.acehorn": "Aashoorn",
 "medabots_server:entity.aimflash": "Richtflits",
@@ -7150,7 +7143,6 @@
 "medabots_server:entity.walk_detection": "%s loop detectie",
 "medabots_server:entity.yuchitang": "Yuchitang",
 "medabots_server:entity.zant": "Zant",
-
 "medabots_server:item.abyss_greater_burst": "Uitbarsting",
 "medabots_server:item.abyss_greater_burst.model": "KNG00-M-2",
 "medabots_server:item.abyss_greater_depth_sole": "Dieptezool",
@@ -8035,7 +8027,6 @@
 "medabots_server:item.zant_usurper_scimitar.model": "TWI02-M-3",
 "medabots_server:item.zant_zant_helmet": "Zant helm",
 "medabots_server:item.zant_zant_helmet.model": "TWI02-M-1",
-
 "medabots_server:location.another_dimension": "Een andere dimensie",
 "medabots_server:location.arena": "Arena",
 "medabots_server:location.boxer": "Boxer",
@@ -8119,7 +8110,6 @@
 "medabots_server:location.snowfield_e": "Sneeuwveld E",
 "medabots_server:location.subspace": "Subruimte",
 "medabots_server:location.woods_battle": "Bos gevecht",
-
 "medabots_server:message.abyss_greater.intro.1": "Ik stuur je rechtstreeks naar Valhalla!",
 "medabots_server:message.abyss_greater.intro.2": "Je staat voor de afgrond!",
 "medabots_server:message.abyss_greater.intro.3": "Voor glory!",
@@ -8537,6 +8527,8 @@
 "medabots_server:message.medawatch.check_tasks.already_cleared": "Deze taak was al voltooid.",
 "medabots_server:message.medawatch.check_tasks.blacklisted": "%s is nu op de zwarte lijst gezet voor verdere spelerraporten re maken.",
 "medabots_server:message.medawatch.check_tasks.clear": "Ik heb de volgende taak voltooid: %s",
+"medabots_server:message.medawatch.check_tasks.clear.report": "Ik heb het volgende rapport voltooid: %s",
+"medabots_server:message.medawatch.check_tasks.clear.report.click": "Klik om mede moderatoren een bericht te versturen.",
 "medabots_server:message.medawatch.check_tasks.create": "Maak taak.",
 "medabots_server:message.medawatch.check_tasks.create.1": "Zonder dat je stopt de Medawatch te gebruiken, schrijf alleen in de boek en veers eerste pagina, de taak/raport dat je wilt maken. Geef het de titel \"all\", \"personal\", \"report\", of \"moderator\" om het aan de corresponderende lijst toe te voegen. Je kan alleen personlijke taken aan jezelf geven. De raport-catogorie is gereserveerd voor alleen spelerrapporten; misbruik van deze categorie zal ervoor zorgen dat je op de zwarte lijst wordt gezet voor rapporteren.",
 "medabots_server:message.medawatch.check_tasks.create.blacklisted": "Je mag geen spelerraporten meer maken door vorig misbruik van de categorie.",
@@ -8550,7 +8542,7 @@
 "medabots_server:message.medawatch.check_tasks.entry": "[Taak] %s",
 "medabots_server:message.medawatch.check_tasks.entry.hover": "Klik om deze taak te voltooien.",
 "medabots_server:message.medawatch.check_tasks.entry.hover.report.name": "Klik hier om deze speler's rapporteerbaarheid te blokkeren.",
-"medabots_server:message.medawatch.check_tasks.entry.hover.report.task": "Klik hier om dit report te voltooien.",
+"medabots_server:message.medawatch.check_tasks.entry.hover.report.task": "Klik hier om dit rapport te voltooien.",
 "medabots_server:message.medawatch.check_tasks.entry.no_permission": "Je moet een moderator zijn om deze te zien.",
 "medabots_server:message.medawatch.check_tasks.entry.none": "Er is op dit moment niets hier.",
 "medabots_server:message.medawatch.check_tasks.entry.report": "[Raport door %s] %s",
@@ -9444,11 +9436,13 @@
 "medabots_server:message.stage.version.action_floors": "Actievloeren",
 "medabots_server:message.stage.version.action_floors_x": "Actievloeren %s",
 "medabots_server:message.stage.version.balloon_bombs": "Ballon bommen",
+"medabots_server:message.stage.version.build": "Bouw",
+"medabots_server:message.stage.version.build.description": "Maak je eigen aangepaste levelversie.",
 "medabots_server:message.stage.version.cannons": "Kannonen",
 "medabots_server:message.stage.version.cannons_x": "Kannonen %s",
 "medabots_server:message.stage.version.challenge": "Uitdaging",
 "medabots_server:message.stage.version.custom": "Aangepast",
-"medabots_server:message.stage.version.custom.description": "Selecteer een aangepast level voorwerp in het meest rechter hotbar slot om het te spelen, of geen om er een te maken.",
+"medabots_server:message.stage.version.custom.description": "Selecteer een aangepast level voorwerp in het meest rechter hotbar slot om het te spelen.",
 "medabots_server:message.stage.version.darkness": "Duisternis",
 "medabots_server:message.stage.version.dev": "Dev (%s)",
 "medabots_server:message.stage.version.doors": "Deuren",
@@ -9539,7 +9533,6 @@
 "medabots_server:message.zant.kill.1": "Een dag zal ik vallen, maar het zal niet door jou zijn!",
 "medabots_server:message.zant.kill.2": "Huh? Sta op!",
 "medabots_server:message.zant.kill.3": "JAAAAAAAAA... Heh... Heh...",
-
 "medabots_server:move.alien_medal": "Willekeurig veranderen",
 "medabots_server:move.alien_medal.description": "Kiest een willekeurige medaforce.",
 "medabots_server:move.anti_fly": "Anti-vlieg",
@@ -9664,7 +9657,6 @@
 "medabots_server:move.wave.description": "Blaas anderen, Vlotten en Ballon Bommen weg.",
 "medabots_server:move.wheel": "Wiel",
 "medabots_server:move.wheel.description": "Laat je zeer snel gaan.",
-
 "medabots_server:scoreboard.bossbar.time": "Tijd: %s%s:%s%s:%s%s",
 "medabots_server:scoreboard.objective.head_armor": "Hoofd panser: %s%s%s%s",
 "medabots_server:scoreboard.objective.head_uses_left": "Hoofd gebruiken over: %s%s%s%s",
@@ -9682,7 +9674,6 @@
 "medabots_server:scoreboard.team.neutral_medabot": "Neutrale Medabot",
 "medabots_server:scoreboard.team.stage_boss": "Level baas",
 "medabots_server:scoreboard.team.stage_enemy": "Level vijand",
-
 "medabots_server:settings.action_mode": "Actie modus: %s",
 "medabots_server:settings.arena_type": "Arena type: %s",
 "medabots_server:settings.attack": "Aanvals indicator: aan",
@@ -9743,7 +9734,6 @@
 "medabots_server:settings.value.short": "Kort",
 "medabots_server:settings.vs_cpus": "Tegen computer vijanden: %s",
 "medabots_server:settings.world": "Klik om je wereld-instellingen te zien en bewerken.",
-
 "medabots_server:sign.apartment_building.2_floors": "2 verdiepingen",
 "medabots_server:sign.apartment_building.back_view": "Achter aanzicht",
 "medabots_server:sign.apartment_building.front_view": "Voor aanzicht",
@@ -10025,7 +10015,6 @@
 "medabots_server:sign.statue.ultimategold.medabot.1": "Boogkever en",
 "medabots_server:sign.statue.ultimategold.medabot.2": "Amelia",
 "medabots_server:sign.statue.using": "gebruikt",
-
 "medabots_server:subtitles.ambient.fly_course_fallout": "Afval timer waarschuwt",
 "medabots_server:subtitles.block.accelerator": "Entiteit versnelt",
 "medabots_server:subtitles.block.action_floor": "Actie vloer spawnt entiteit",
