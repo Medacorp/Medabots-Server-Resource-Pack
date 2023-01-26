@@ -6,12 +6,6 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "medabots_server:item/jukebox"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 2
             },
             "model": "medabots_server:item/rules_book"

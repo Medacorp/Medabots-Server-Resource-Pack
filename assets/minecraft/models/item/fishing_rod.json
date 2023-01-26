@@ -2696,6 +2696,14 @@
         },
 		{
             "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 6
+            },
+            "model": "medabots_server:item/jukebox"
+        },
+		{
+            "predicate": {
                 "damaged": 1,
 				"damage": 0
             },
