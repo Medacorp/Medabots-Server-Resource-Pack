@@ -450,7 +450,7 @@
 				"damage": 0.0024,
                 "custom_model_data": 0
             },
-            "model": "minecraft:diamond_pickaxe"
+            "model": "minecraft:item/diamond_pickaxe"
         },
 		{
             "predicate": {
