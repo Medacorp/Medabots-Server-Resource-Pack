@@ -8059,7 +8059,7 @@
 "//medabots_server:item.tinpet": "Tinpet",
 "//medabots_server:item.tinpet.attachment": "Attachments:",
 "//medabots_server:item.tinpet.attachment.entry": "* %s",
-"//medabots_server:item.tinpet.change_attachements": "Change Attachements",
+"//medabots_server:item.tinpet.change_attachments": "Change Attachments",
 "//medabots_server:item.tinpet.change_head": "Change Head",
 "//medabots_server:item.tinpet.change_left_arm": "Change Left Arm",
 "//medabots_server:item.tinpet.change_legs": "Change Legs",

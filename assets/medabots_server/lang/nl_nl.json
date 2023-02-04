@@ -8056,7 +8056,7 @@
 "medabots_server:item.tinpet": "Tinpet",
 "medabots_server:item.tinpet.attachment": "Aanhechtbare voorwerpen:",
 "medabots_server:item.tinpet.attachment.entry": "* %s",
-"medabots_server:item.tinpet.change_attachements": "Verander aanhechtbare voorwerpen",
+"medabots_server:item.tinpet.change_attachments": "Verander aanhechtbare voorwerpen",
 "medabots_server:item.tinpet.change_head": "Verander hoofd",
 "medabots_server:item.tinpet.change_left_arm": "Verander linker arm",
 "medabots_server:item.tinpet.change_legs": "Verander benen",
