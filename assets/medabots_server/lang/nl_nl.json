@@ -535,6 +535,7 @@
 "medabots_server:death.medabot.ice_block": "%s was geplet door een ijsblok.",
 "medabots_server:death.medabot.ice_block.2_killers": "%s was geplet door een ijsblok tijdens het vechten met %s en %s.",
 "medabots_server:death.medabot.ice_block.killer": "%s was geplet door een ijsblok tijdens het vechten met %s.",
+"medabots_server:death.medabot.infected": "%s bezweek aan een infectie.",
 "medabots_server:death.medabot.infected.2_killers": "%s bezweek aan de infectie toegebracht door %s tijdens het vechten met %s.",
 "medabots_server:death.medabot.infected.killer": "%s bezweek aan de infectie toegebracht door %s.",
 "medabots_server:death.medabot.laser": "%s kwam te dicht bij het licht.",
