@@ -1,9 +1,9 @@
 {
-	"parent": "medabots_server:block/torutoru_land_block",
 	"credit": "Made with Blockbench",
+	"parent": "medabots_server:block/torutoru_land_block",
 	"textures": {
-		"texture": "medabots_server:block/laser_trap",
-		"particle": "medabots_server:block/laser_trap"
+		"particle": "medabots_server:block/laser_trap",
+		"texture": "medabots_server:block/laser_trap"
 	},
 	"elements": [
 		{
@@ -14,7 +14,8 @@
 				"east": {"uv": [0, 8.25, 2, 8.75], "texture": "#texture"},
 				"south": {"uv": [6, 8.25, 8, 8.75], "texture": "#texture"},
 				"west": {"uv": [4, 8.25, 6, 8.75], "texture": "#texture"},
-				"up": {"uv": [2, 6.25, 4, 8.25], "rotation": 180, "texture": "#texture"}
+				"up": {"uv": [2, 6.25, 4, 8.25], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [2, 6.25, 4, 8.25], "rotation": 180, "texture": "#texture"}
 			}
 		},
 		{

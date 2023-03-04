@@ -1,9 +1,6 @@
 {
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [90, 0, 0],
-			"translation": [-6, -2, -4]
-		},
+	"parent": "minecraft:block/block",
+    "display": {
 		"head": {
 			"translation": [0, -30.42, 0],
 			"scale": [1.6, 1.6, 1.6]

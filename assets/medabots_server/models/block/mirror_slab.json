@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "medabots_server:block/torutoru_land_block",
 	"textures": {
 		"0": "medabots_server:block/mirror_slab",
 		"1": "medabots_server:block/mirror_slab_top",
@@ -29,5 +28,11 @@
 				"up": {"uv": [2, 0, 14, 16], "texture": "#1"}
 			}
 		}
-	]
+	],
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, -4]
+		}
+	}
 }

@@ -1,5 +1,4 @@
 {
-	"parent": "medabots_server:block/torutoru_land_block",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"texture": "medabots_server:entity/fan",
@@ -39,5 +38,11 @@
 				"down": {"uv": [5.5, 0, 8, 3], "texture": "#texture"}
 			}
 		}
-	]
+	],
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, -4]
+		}
+	}
 }

@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "medabots_server:block/torutoru_land_block",
 	"textures": {
 		"0": "medabots_server:block/algae",
 		"particle": "medabots_server:block/algae"
