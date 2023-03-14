@@ -1436,7 +1436,7 @@
 				"damage": 0.045,
                 "custom_model_data": 41
             },
-            "model": "medabots_server:entity/potato_insect/rangingskin"
+            "model": "medabots_server:entity/potato_insect/ragingskin"
         },
 		{
             "predicate": {
@@ -2701,6 +2701,14 @@
                 "custom_model_data": 6
             },
             "model": "medabots_server:item/jukebox"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.105,
+                "custom_model_data": 7
+            },
+            "model": "medabots_server:item/loot_crate"
         },
 		{
             "predicate": {
