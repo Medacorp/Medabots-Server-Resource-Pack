@@ -1,8 +1,9 @@
 {
     "pack": {
-        "pack_format": 12,
+        "pack_format": 13,
         "description": {
-			"translate": "Medabots server resource pack"
+			"translate": "medabots_server:resource_pack.description",
+			"fallback": "Medabots server resource pack"
 		}
     }
 }
