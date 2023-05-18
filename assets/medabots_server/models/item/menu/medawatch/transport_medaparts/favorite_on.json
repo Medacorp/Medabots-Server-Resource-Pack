@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+	"textures": {
+        "layer0": "medabots_server:item/menu/medawatch/transport_medaparts/favorite_on"
+    }
+}

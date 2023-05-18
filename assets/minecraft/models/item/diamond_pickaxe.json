@@ -706,7 +706,7 @@
 				"damage": 0.0036,
                 "custom_model_data": 10
             },
-            "model": "medabots_server:item/menu/medawatch/check_tasks/mark_as_done"
+            "model": "medabots_server:item/menu/medawatch/tracker/mark_as_done"
         },
 		{
             "predicate": {
@@ -787,6 +787,22 @@
                 "custom_model_data": 20
             },
             "model": "medabots_server:item/menu/modify"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 21
+            },
+            "model": "medabots_server:item/menu/medawatch/transport_medaparts/favorite_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 22
+            },
+            "model": "medabots_server:item/menu/medawatch/transport_medaparts/favorite_on"
         },
 		{
             "predicate": {
