@@ -3358,10 +3358,46 @@
             }
         ]
     },
+    "music.stage.boss.commander_shroob": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/commander_shroob",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.commander_shroob_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/commander_shroob_intro",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
     "music.stage.boss.dimentio": {
         "sounds": [
             {
                 "name": "medabots_server:music/stage/boss/dimentio",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.galacta_knight": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/galacta_knight",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.galacta_knight_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/galacta_knight_intro",
                 "stream": true,
                 "volume": 0.0004
             }
@@ -3417,6 +3453,24 @@
             {
                 "name": "medabots_server:music/stage/boss/hr_d3_intro",
                 "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.landia": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/landia",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.landia_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/landia_intro",
+                "stream": true,
                 "volume": 0.0004
             }
         ]
@@ -3587,6 +3641,24 @@
         "sounds": [
             {
                 "name": "medabots_server:music/stage/boss/topmaniac_intro",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.whomp_king": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/whomp_king",
+                "stream": false,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.boss.whomp_king_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/boss/whomp_king_intro",
                 "stream": false,
                 "volume": 0.0004
             }
@@ -3938,6 +4010,24 @@
         "sounds": [
             {
                 "name": "medabots_server:music/stage/seashore",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.shroob_castle": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/shroob_castle",
+                "stream": true,
+                "volume": 0.0004
+            }
+        ]
+    },
+    "music.stage.shroob_castle_intro": {
+        "sounds": [
+            {
+                "name": "medabots_server:music/stage/shroob_castle_intro",
                 "stream": true,
                 "volume": 0.0004
             }
