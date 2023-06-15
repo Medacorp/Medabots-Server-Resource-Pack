@@ -807,6 +807,22 @@
 		{
             "predicate": {
                 "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 23
+            },
+            "model": "medabots_server:item/menu/medawatch/tracker/mark_as_private"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 24
+            },
+            "model": "medabots_server:item/menu/medawatch/tracker/mark_as_public"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
 				"damage": 0.0042,
                 "custom_model_data": 0
             },
