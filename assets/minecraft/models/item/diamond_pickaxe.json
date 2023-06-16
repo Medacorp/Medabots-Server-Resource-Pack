@@ -610,14 +610,6 @@
 				"damage": 0.003,
                 "custom_model_data": 16
             },
-            "model": "medabots_server:advancement_icon/bosses"
-        },
-		{
-            "predicate": {
-                "damaged": 0,
-				"damage": 0.003,
-                "custom_model_data": 17
-            },
             "model": "medabots_server:advancement_icon/bosses/commander_shroob"
         },
 		{
@@ -819,6 +811,414 @@
                 "custom_model_data": 24
             },
             "model": "medabots_server:item/menu/medawatch/tracker/mark_as_public"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 25
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/action_mode_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 26
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/action_mode_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 27
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/moderator_tracker_reminders_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 28
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/moderator_tracker_reminders_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 29
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/metabee_messages_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 30
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/metabee_messages_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 31
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/random_messages_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 32
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/random_messages_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 33
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/player_interactions_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 34
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/generic/player_interactions_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 35
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/arena_type_1v1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 36
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/arena_type_1v3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 37
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/arena_type_2v2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 38
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/arena_type_1v1v1v1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 39
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/auto_sell_full_medawatch_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 40
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/auto_sell_full_medawatch_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 41
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/practice_battle_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 42
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/practice_battle_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 43
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/robattle_music_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 44
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/robattle_music_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 45
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/robattle_music_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 46
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/robattle_music_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 47
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/vs_cpus_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 48
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/vs_cpus_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 49
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/hide_unavailable_stage_versions_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 50
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/medabot/hide_unavailable_stage_versions_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 51
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/speed_long"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 52
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/speed_short"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 53
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/fee_no"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 54
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/fee_10"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 55
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/fee_20"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 56
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/fee_30"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 57
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/fee_40"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 58
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/fee_50"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 59
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/force_fallout_on"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 60
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/force_fallout_off"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 61
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_infinite"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 62
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_1"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 63
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_2"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 64
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_3"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 65
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_4"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 66
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_5"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 67
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_6"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 68
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_7"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 69
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_8"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 70
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_9"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 71
+            },
+            "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_10"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 72
+            },
+            "model": "medabots_server:item/menu/enter"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 73
+            },
+            "model": "medabots_server:item/menu/medawatch/scores"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 74
+            },
+            "model": "medabots_server:item/menu/medawatch/settings"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 75
+            },
+            "model": "medabots_server:item/menu/stage_builder/boss_spawner"
         },
 		{
             "predicate": {
