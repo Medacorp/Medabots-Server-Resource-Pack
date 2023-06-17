@@ -1223,6 +1223,102 @@
 		{
             "predicate": {
                 "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 76
+            },
+            "model": "medabots_server:item/menu/stage/version/first_go"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 77
+            },
+            "model": "medabots_server:item/menu/stage/version/second_go"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 78
+            },
+            "model": "medabots_server:item/menu/stage/version/third_go"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 79
+            },
+            "model": "medabots_server:item/menu/stage/version/special"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 80
+            },
+            "model": "medabots_server:item/menu/stage/version/challenge"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 81
+            },
+            "model": "medabots_server:item/menu/stage/version/training"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 82
+            },
+            "model": "medabots_server:item/menu/stage/version/race"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 83
+            },
+            "model": "medabots_server:item/menu/stage/version/empty"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 84
+            },
+            "model": "medabots_server:item/menu/stage/version/locked_out"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 85
+            },
+            "model": "medabots_server:item/menu/stage/version/locked_in"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 86
+            },
+            "model": "medabots_server:item/menu/stage/version/darkness"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
+				"damage": 0.0036,
+                "custom_model_data": 87
+            },
+            "model": "medabots_server:item/menu/stage/version/random"
+        },
+		{
+            "predicate": {
+                "damaged": 0,
 				"damage": 0.0042,
                 "custom_model_data": 0
             },

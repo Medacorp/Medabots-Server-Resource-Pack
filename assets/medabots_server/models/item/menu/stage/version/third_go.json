@@ -1,0 +1,6 @@
+{
+    "parent": "medabots_server:item/menu",
+	"textures": {
+        "layer0": "medabots_server:item/menu/stage/version/third_go"
+    }
+}

@@ -9210,6 +9210,7 @@
 "medabots_server:message.stage.already_playing": "Just a moment, somebody is busy.",
 "medabots_server:message.stage.available_again": "No player was found in the stage; the stage has been cleaned up and can now be played again.",
 "medabots_server:message.stage.cant_leave": "You can't just leave the stage if you are waiting for remaining players.",
+"medabots_server:message.stage.cant_retry": "This stage version could only be attempted once, select another stage version to enter.",
 "medabots_server:message.stage.cant_spectate": "There's nobody to spectate.",
 "medabots_server:message.stage.cant_spectate_another": "There's nobody else to spectate.",
 "medabots_server:message.stage.clear_before_players": "You need to have cleared this stage version before you can fight players in it; to play it, turn \"versus computer enemies\" on.",

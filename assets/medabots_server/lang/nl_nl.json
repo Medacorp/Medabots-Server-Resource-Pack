@@ -9210,6 +9210,7 @@
 "medabots_server:message.stage.already_playing": "Een moment, iemand is bezig.",
 "medabots_server:message.stage.available_again": "Er was geen speler gevonden in het level, noch het selectie gebied; het level is opgeruimd en kan nu weer worden gespeeld.",
 "medabots_server:message.stage.cant_leave": "Je kan niet zomaar het level verlaten als je wacht op andere spelers.",
+"medabots_server:message.stage.cant_retry": "Deze levelversie kon maar een keer worden geprobeerd, selecteer een ander levelversie om in te treden.",
 "medabots_server:message.stage.cant_spectate": "Er is niemand on toe te schouwen.",
 "medabots_server:message.stage.cant_spectate_another": "Er is niemand anders om toe te schouwen.",
 "medabots_server:message.stage.clear_before_players": "Je moet dit level versie eerst hebben gehaald voor je erin met spelers kan vechten; om te spelen, zet \"tegen computer vijanden\" aan.",
