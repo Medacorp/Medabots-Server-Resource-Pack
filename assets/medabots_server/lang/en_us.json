@@ -9236,7 +9236,7 @@
 "medabots_server:message.saintnurse.kill.2": "Are you ok?",
 "medabots_server:message.saintnurse.kill.3": "Let me help you.",
 "medabots_server:message.salesman.quest": "A quest. I will give you %s when you clear it.",
-"medabots_server:message.selection_menu_help": "To use the selection menu, drop the item or pick the item up with the cursor to select it. Select \"Exit\" to leave the menu.",
+"medabots_server:message.selection_menu_help": "To use the selection menu, drop the item or pick the item up with the cursor to select it.",
 "medabots_server:message.seven_colors.intro.1": "I'm going to sneak up and grab you from behind!",
 "medabots_server:message.seven_colors.intro.2": "Na-nana-na-naaa-na! You can't see me!",
 "medabots_server:message.seven_colors.intro.3": "Look out, look out, wherever I am!",
