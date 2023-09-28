@@ -9532,6 +9532,8 @@
 "medabots_server:message.stage.stage_builder.get.variables.moving.north": "* Beweging: Noord.",
 "medabots_server:message.stage.stage_builder.get.variables.moving.south": "* Beweging: Zuid.",
 "medabots_server:message.stage.stage_builder.get.variables.moving.west": "* Beweging: West.",
+"medabots_server:message.stage.stage_builder.get.variables.music": "Muziek: %s.",
+"medabots_server:message.stage.stage_builder.get.variables.music.none": "Geen",
 "medabots_server:message.stage.stage_builder.get.variables.power_direction.down": "* Kracht richting: Omlaag.",
 "medabots_server:message.stage.stage_builder.get.variables.power_direction.up": "* Kracht richting: Omhoog.",
 "medabots_server:message.stage.stage_builder.get.variables.power_output": "* Kracht-uitvoer: { Hoeveelheid: %s, X: %s, Y: %s, Z: %s }.",
