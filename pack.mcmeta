@@ -1,9 +1,9 @@
 {
     "pack": {
-        "pack_format": 18,
-        "supported_formats": [18,18],
+        "pack_format": 22,
+        "supported_formats": [22,22],
         "description": {
-			"translate": "medabots_server:resource_pack.description",
+			"type":"translatable","translate": "medabots_server:resource_pack.description",
 			"fallback": "Medabots server resource pack"
 		}
     }
