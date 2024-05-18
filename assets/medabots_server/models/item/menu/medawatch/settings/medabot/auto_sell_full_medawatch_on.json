@@ -1,6 +1,0 @@
-{
-    "parent": "medabots_server:item/menu",
-	"textures": {
-        "layer0": "medabots_server:item/menu/medawatch/settings/medabot/auto_sell_full_medawatch_on"
-    }
-}
