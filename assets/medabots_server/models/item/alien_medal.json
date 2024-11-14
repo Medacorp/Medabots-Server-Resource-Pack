@@ -2,5 +2,19 @@
     "parent": "medabots_server:item/medal",
 	"textures": {
 		"face": "medabots_server:item/alien_medal"
-	}
+	},
+    "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:item/alien_medal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/charged_alien_medal"
+        }
+	]
 }

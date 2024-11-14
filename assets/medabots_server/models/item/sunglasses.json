@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "medabots_server:item/sunglasses_front",
-		"1": "medabots_server:item/sunglasses_side"
+		"1": "medabots_server:item/sunglasses_side",
+		"particle": "#0"
 	},
 	"elements": [
 		{

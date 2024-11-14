@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:builtin/generated",
+	"textures": {
+        "layer0": "medabots_server:item/topmaniacs_blade"
+    }
+}

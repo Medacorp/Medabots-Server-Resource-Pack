@@ -1,0 +1,70 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/flame_tisala/right_arm"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/flame_tisala/left_arm"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/flame_tisala/hips"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/flame_tisala/chest"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/flame_tisala/head"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/flame_tisala/hips"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/flame_tisala/chest"
+                },
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/flame_tisala/head"
+                }
+            ]
+        }
+    }
+}

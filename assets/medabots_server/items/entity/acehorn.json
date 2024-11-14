@@ -1,0 +1,114 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/right_arm"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/left_arm"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/acehorn/hips"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/acehorn/legs/1"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/acehorn/legs/2"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/acehorn/legs/3"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/acehorn/legs/4"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/chest"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/head"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/hips"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/legs/1"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/legs/2"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/legs/3"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/legs/4"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/chest"
+                },
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/acehorn/head"
+                }
+            ]
+        }
+    }
+}

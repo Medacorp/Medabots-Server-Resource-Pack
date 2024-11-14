@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "medabots_server:entity/cannon",
-		"particle": "medabots_server:entity/cannon"
+		"particle": "#0"
 	},
 	"elements": [
 		{

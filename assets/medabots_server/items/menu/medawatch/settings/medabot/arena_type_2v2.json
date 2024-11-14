@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "medabots_server:item/menu/medawatch/settings/medabot/arena_type_2v2"
+    }
+}

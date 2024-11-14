@@ -9532,7 +9532,7 @@
 "medabots_server:message.stage.stage_builder.get.variables.moving.north": "* Moving: North.",
 "medabots_server:message.stage.stage_builder.get.variables.moving.south": "* Moving: South.",
 "medabots_server:message.stage.stage_builder.get.variables.moving.west": "* Moving: West.",
-"medabots_server:message.stage.stage_builder.get.variables.music": "Music: %s.",
+"medabots_server:message.stage.stage_builder.get.variables.music": "* Music: %s.",
 "medabots_server:message.stage.stage_builder.get.variables.music.none": "None",
 "medabots_server:message.stage.stage_builder.get.variables.power_direction.down": "* Power Direction: Down.",
 "medabots_server:message.stage.stage_builder.get.variables.power_direction.up": "* Power Direction: Up.",
@@ -10266,5 +10266,7 @@
 "medabots_server:subtitles.entity.topman.move": "Topman moves",
 "medabots_server:subtitles.entity.totalizer.talk": "Totalizer talks",
 "medabots_server:subtitles.item.jukebox.interference": "Jukebox plays interference",
-"medabots_server:subtitles.item.metal_detector.beep": "Metal Detector beeps"
+"medabots_server:subtitles.item.master_crown.equip": "Master Crown empowers",
+"medabots_server:subtitles.item.metal_detector.beep": "Metal Detector beeps",
+"medabots_server:subtitles.item.sunglasses.equip": "Sunglasses click"
 }

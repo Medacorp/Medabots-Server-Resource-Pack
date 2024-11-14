@@ -1,0 +1,28 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/plant/yellow"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/plant/yellow_broken"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "medabots_server:item/entity/yellow_plant"
+        }
+    }
+}

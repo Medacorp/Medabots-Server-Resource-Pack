@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "medabots_server:item/menu/medawatch/tracker/mark_as_done"
+    }
+}

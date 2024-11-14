@@ -1,7 +1,0 @@
-{
-	"parent": "medabots_server:block/accelerator",
-	"textures": {
-		"texture": "medabots_server:block/gas_floor",
-		"particle": "medabots_server:block/gas_floor"
-	}
-}

@@ -3,7 +3,7 @@
 	"parent": "medabots_server:block/torutoru_land_block",
 	"textures": {
 		"0": "medabots_server:entity/ice_block",
-		"particle": "medabots_server:entity/ice_block"
+		"particle": "#0"
 	},
 	"elements": [
 		{

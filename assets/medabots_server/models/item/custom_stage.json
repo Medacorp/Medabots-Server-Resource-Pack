@@ -1,3 +1,14 @@
 {
-    "parent": "minecraft:item/globe_banner_pattern"
+    "parent": "minecraft:item/generated",
+	"textures": {
+        "layer0": "medabots_server:item/custom_stage",
+        "layer1": "medabots_server:item/custom_stage_overlay"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 7],
+            "scale":[ 1, 1, 1]
+        }
+    }
 }

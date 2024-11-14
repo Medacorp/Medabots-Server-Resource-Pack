@@ -2638,6 +2638,15 @@
         ],
         "subtitle": "medabots_server:subtitles.item.jukebox.interference"
     },
+    "item.master_crown.equip": {
+        "sounds": [
+            {
+                "name": "medabots_server:item/master_crown/equip",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.item.master_crown.equip"
+    },
     "item.metal_detector.beep": {
         "sounds": [
             {
@@ -2646,6 +2655,15 @@
             }
         ],
         "subtitle": "medabots_server:subtitles.item.metal_detector.beep"
+    },
+    "item.sunglasses.equip": {
+        "sounds": [
+            {
+                "name": "medabots_server:item/sunglasses/equip",
+                "stream": false
+            }
+        ],
+        "subtitle": "medabots_server:subtitles.item.sunglasses.equip"
     },
     "music.battle.0": {
         "sounds": [

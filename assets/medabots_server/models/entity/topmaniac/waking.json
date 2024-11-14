@@ -1,6 +1,5 @@
 {
 	"parent": "medabots_server:entity/topmaniac/dormant",
-	"credit": "Made with Blockbench",
 	"textures": {
 		"head": "medabots_server:entity/topmaniac/head_waking"
 	}

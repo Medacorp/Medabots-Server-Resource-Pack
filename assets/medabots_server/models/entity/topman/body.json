@@ -3,7 +3,8 @@
 	"parent": "medabots_server:entity/topman/display",
 	"textures": {
 		"main": "medabots_server:entity/topman/topman",
-		"arrows": "medabots_server:entity/topman/arrows"
+		"arrows": "medabots_server:entity/topman/arrows",
+        "particle": "#main"
 	},
 	"elements": [
 		{

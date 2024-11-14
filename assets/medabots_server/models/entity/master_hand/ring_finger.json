@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "medabots_server:entity/master_hand",
+		"particle": "#0"
+	},
+	"elements": [
+		{
+			"from": [8.74794, -2.46364, 3.60698],
+			"to": [11.99794, 5.53636, 6.60698],
+			"rotation": {"angle": 0, "axis": "x", "origin": [7.63691, -1.64087, 7.77692]},
+			"faces": {
+				"north": {"uv": [1, 1, 0, 0], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [1, 1, 0, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.74794, -5.30524, 3.60953],
+			"to": [11.99794, -0.80524, 6.60953],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.63691, -1.64087, 7.77692]},
+			"faces": {
+				"north": {"uv": [1, 1, 0, 0], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [1, 1, 0, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.74794, -9.93152, 2.52446],
+			"to": [11.99794, -3.43152, 5.52446],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.63691, -1.64087, 7.77692]},
+			"faces": {
+				"north": {"uv": [1, 1, 0, 0], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [1, 1, 0, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -10, 10],
+			"scale": [4, 4, 4]
+		}
+	}
+}

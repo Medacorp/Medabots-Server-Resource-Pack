@@ -37,7 +37,8 @@
 	},
 	"textures": {
 		"0": "medabots_server:entity/saikachis/head",
-		"1": "medabots_server:entity/saikachis/chest"
+		"1": "medabots_server:entity/saikachis/chest",
+        "particle": "#0"
 	},
 	"elements": [
 		{

@@ -1,8 +1,0 @@
-{
-	"parent": "medabots_server:block/knight",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "medabots_server:block/black_chess_piece",
-		"particle": "medabots_server:block/black_pawn"
-	}
-}

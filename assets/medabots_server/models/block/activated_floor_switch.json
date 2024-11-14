@@ -1,6 +1,0 @@
-{
-	"parent": "medabots_server:block/floor_switch",
-	"textures": {
-		"glow": "medabots_server:block/floor_switch_glow"
-	}
-}

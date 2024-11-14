@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "medabots_server:item/menu/stage/builder/increase_time_penalty"
+    }
+}

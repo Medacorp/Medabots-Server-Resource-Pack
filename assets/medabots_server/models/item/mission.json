@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+	"textures": {
+        "layer0": "medabots_server:item/mission",
+        "layer1": "medabots_server:item/mission_overlay"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 7],
+            "scale":[ 1, 1, 1]
+        }
+    }
+}

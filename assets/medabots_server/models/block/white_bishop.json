@@ -1,8 +1,0 @@
-{
-	"parent": "medabots_server:block/bishop",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "medabots_server:block/white_chess_piece",
-		"particle": "medabots_server:block/white_pawn"
-	}
-}

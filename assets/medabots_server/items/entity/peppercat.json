@@ -1,0 +1,103 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/right_arm"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/left_arm"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/peppercat/hips"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/peppercat/tail"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/peppercat/legs/1"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/peppercat/legs/2"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/chest"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/head"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/hips"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/tail"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/legs/1"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/legs/2"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/chest"
+                },
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/peppercat/head"
+                }
+            ]
+        }
+    }
+}

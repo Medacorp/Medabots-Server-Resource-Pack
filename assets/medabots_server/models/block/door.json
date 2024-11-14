@@ -1,29 +1,37 @@
 {
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "medabots_server:block/door",
+		"1": "medabots_server:block/door_side",
+		"2": "medabots_server:block/door_top",
+		"3": "medabots_server:block/door_top_side",
+		"4": "medabots_server:block/door_glow",
+		"particle": "medabots_server:block/door"
+	},
 	"gui_light": "side",
     "display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 2],
+			"scale": [0.1875, 0.1875, 0.1875]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"translation": [0, 4, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.27, 0.27, 0.27]
+		},
 		"head": {
 			"translation": [-12.75, -5, 0],
 			"scale": [1.6, 1.6, 1.6]
-		},
-        "gui": {
-            "rotation": [ 30, 225, 0 ],
-            "translation": [ 0, 0, 0],
-            "scale":[ 0.27, 0.27, 0.27 ]
-        },
-        "thirdperson_righthand": {
-            "rotation": [ 75, 45, 0 ],
-            "translation": [ 0, 2.5, 2],
-            "scale": [ 0.1875, 0.1875, 0.1875 ]
-        },
-        "firstperson_righthand": {
-            "rotation": [ 0, 45, 0 ],
-            "translation": [ 0, 4, 0 ],
-            "scale": [ 0.20, 0.20, 0.20 ]
-        },
-        "firstperson_lefthand": {
-            "rotation": [ 0, 225, 0 ],
-            "translation": [ 0, 4, 0 ],
-            "scale": [ 0.20, 0.20, 0.20 ]
-        }
-    }
+		}
+	}
 }

@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "medabots_server:item/custom_stage",
+        "tints": [
+            {
+                "type": "minecraft:dye",
+                "default": 16777215
+            }
+        ]
+    }
+}

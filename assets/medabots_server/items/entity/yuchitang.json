@@ -1,0 +1,81 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/right_arm"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/left_arm"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/yuchitang/hips"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/yuchitang/tail"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/chest"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/head"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/hips"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/tail"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/chest"
+                },
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/yuchitang/head"
+                }
+            ]
+        }
+    }
+}

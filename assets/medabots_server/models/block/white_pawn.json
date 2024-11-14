@@ -1,8 +1,0 @@
-{
-	"parent": "medabots_server:block/pawn",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "medabots_server:block/white_pawn",
-		"particle": "medabots_server:block/white_pawn"
-	}
-}

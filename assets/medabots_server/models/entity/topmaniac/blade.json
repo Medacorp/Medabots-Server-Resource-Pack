@@ -3,7 +3,7 @@
 	"parent": "medabots_server:entity/topmaniac/display",
 	"textures": {
 		"blade": "medabots_server:entity/topmaniac/active",
-		"particle": "medabots_server:entity/topmaniac/active"
+        "particle": "#blade"
 	},
 	"elements": [
 		{

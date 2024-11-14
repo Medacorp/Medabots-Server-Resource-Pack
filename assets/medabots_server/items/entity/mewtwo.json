@@ -1,0 +1,81 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/right_arm"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/left_arm"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/mewtwo/hips"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/mewtwo/tail"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/chest"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/head"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/hips"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/tail"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/chest"
+                },
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/mewtwo/head"
+                }
+            ]
+        }
+    }
+}

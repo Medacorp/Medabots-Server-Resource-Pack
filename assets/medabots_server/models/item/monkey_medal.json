@@ -2,5 +2,19 @@
     "parent": "medabots_server:item/medal",
 	"textures": {
 		"face": "medabots_server:item/monkey_medal"
-	}
+	},
+    "overrides": [
+		{
+            "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "medabots_server:item/monkey_medal"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "medabots_server:item/charged_monkey_medal"
+        }
+	]
 }

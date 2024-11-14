@@ -9532,7 +9532,7 @@
 "medabots_server:message.stage.stage_builder.get.variables.moving.north": "* Beweging: Noord.",
 "medabots_server:message.stage.stage_builder.get.variables.moving.south": "* Beweging: Zuid.",
 "medabots_server:message.stage.stage_builder.get.variables.moving.west": "* Beweging: West.",
-"medabots_server:message.stage.stage_builder.get.variables.music": "Muziek: %s.",
+"medabots_server:message.stage.stage_builder.get.variables.music": "* Muziek: %s.",
 "medabots_server:message.stage.stage_builder.get.variables.music.none": "Geen",
 "medabots_server:message.stage.stage_builder.get.variables.power_direction.down": "* Kracht richting: Omlaag.",
 "medabots_server:message.stage.stage_builder.get.variables.power_direction.up": "* Kracht richting: Omhoog.",
@@ -10266,5 +10266,7 @@
 "medabots_server:subtitles.entity.topman.move": "Topman beweegt",
 "medabots_server:subtitles.entity.totalizer.talk": "Totalizer praat",
 "medabots_server:subtitles.item.jukebox.interference": "Jukebox speelt storing af",
-"medabots_server:subtitles.item.metal_detector.beep": "Metaaldetector piept"
+"medabots_server:subtitles.item.master_crown.equip": "Meester kroon geeft macht",
+"medabots_server:subtitles.item.metal_detector.beep": "Metaaldetector piept",
+"medabots_server:subtitles.item.sunglasses.equip": "Zonnebril klikt"
 }

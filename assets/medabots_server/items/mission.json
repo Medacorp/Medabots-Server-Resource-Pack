@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "medabots_server:item/mission",
+        "tints": [
+            {
+                "type": "minecraft:dye",
+                "default": 16777215
+            }
+        ]
+    }
+}

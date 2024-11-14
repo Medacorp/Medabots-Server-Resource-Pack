@@ -1,0 +1,21 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/floor_switch/blue_activated"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "medabots_server:block/floor_switch/blue"
+        }
+    }
+}

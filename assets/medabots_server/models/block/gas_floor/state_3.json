@@ -1,0 +1,7 @@
+{
+	"parent": "medabots_server:block/gas_floor/idle",
+	"textures": {
+		"texture": "medabots_server:block/gas_floor_state_3",
+		"particle": "medabots_server:block/gas_floor_state_3"
+	}
+}

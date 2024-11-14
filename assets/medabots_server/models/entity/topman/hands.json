@@ -2,7 +2,8 @@
 	"parent": "medabots_server:entity/topman/display",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"main": "medabots_server:entity/topman/topman"
+		"main": "medabots_server:entity/topman/topman",
+        "particle": "#main"
 	},
 	"elements": [
 		{

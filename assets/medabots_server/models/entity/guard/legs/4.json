@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "medabots_server:entity/guard",
-		"particle": "medabots_server:entity/guard"
+		"particle": "#0"
 	},
 	"elements": [
 		{

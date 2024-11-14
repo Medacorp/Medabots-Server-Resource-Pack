@@ -1,0 +1,136 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/right_arm"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/left_arm"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/kanehachi_mk2/hips"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/kanehachi_mk2/legs/1"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/kanehachi_mk2/legs/2"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/kanehachi_mk2/legs/3"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/kanehachi_mk2/legs/4"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/kanehachi_mk2/legs/5"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/kanehachi_mk2/legs/6"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/chest"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/head"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/hips"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/legs/1"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/legs/2"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/legs/3"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/legs/4"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/legs/5"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/legs/6"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/chest"
+                },
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/kanehachi_mk2/head"
+                }
+            ]
+        }
+    }
+}

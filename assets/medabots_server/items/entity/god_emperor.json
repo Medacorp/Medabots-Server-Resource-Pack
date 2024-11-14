@@ -1,0 +1,202 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/right_arm"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/left_arm"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:composite",
+                    "models": [
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/hips"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/1"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/2"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/3"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/4"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/5"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/6"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/7"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/8"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/9"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/10"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/11"
+                        },
+                        {
+                            "type": "minecraft:model",
+                            "model": "medabots_server:entity/god_emperor/legs/12"
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/chest"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/head"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/hips"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/1"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/2"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/3"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/4"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/5"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/6"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/7"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/8"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/9"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/10"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/11"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/legs/12"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/chest"
+                },
+                {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:entity/god_emperor/head"
+                }
+            ]
+        }
+    }
+}

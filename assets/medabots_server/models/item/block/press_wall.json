@@ -1,0 +1,55 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "medabots_server:block/torutoru_land_block",
+	"textures": {
+		"0": "medabots_server:block/press_wall_side",
+		"1": "medabots_server:block/press_wall_front",
+		"2": "medabots_server:block/press_wall_bottom",
+		"3": "medabots_server:block/press_wall_top",
+		"particle": "#0"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 12],
+			"to": [16, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [4, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 16], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [0, 0, 4, 16], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 12],
+			"faces": {
+				"east": {"uv": [4, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [16, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [4, 0, 16, 16], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [4, 0, 16, 16], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 4],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [4, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 16], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [0, 0, 4, 16], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 0, 4],
+			"to": [16, 16, 8],
+			"faces": {
+				"east": {"uv": [16, 0, 4, 16], "texture": "#0"},
+				"west": {"uv": [4, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [4, 0, 16, 16], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [4, 0, 16, 16], "rotation": 270, "texture": "#2"}
+			}
+		}
+	]
+}

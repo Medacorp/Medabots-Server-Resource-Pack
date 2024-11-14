@@ -1,0 +1,111 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "cases": [
+            {
+                "when": "white",
+                "model": {
+                    "type": "minecraft:select",
+                    "property": "minecraft:custom_model_data",
+                    "index": 1,
+                    "cases": [
+                        {
+                            "when": "pawn",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/white_pawn"
+                            }
+                        },
+                        {
+                            "when": "rook",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/white_rook"
+                            }
+                        },
+                        {
+                            "when": "knight",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/white_knight"
+                            }
+                        },
+                        {
+                            "when": "bishop",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/white_bishop"
+                            }
+                        },
+                        {
+                            "when": "queen",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/white_queen"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "medabots_server:block/chess/white_king"
+                    }
+                }
+            },
+            {
+                "when": "black",
+                "model": {
+                    "type": "minecraft:select",
+                    "property": "minecraft:custom_model_data",
+                    "index": 1,
+                    "cases": [
+                        {
+                            "when": "pawn",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/black_pawn"
+                            }
+                        },
+                        {
+                            "when": "rook",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/black_rook"
+                            }
+                        },
+                        {
+                            "when": "knight",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/black_knight"
+                            }
+                        },
+                        {
+                            "when": "bishop",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/black_bishop"
+                            }
+                        },
+                        {
+                            "when": "queen",
+                            "model": {
+                                "type": "minecraft:model",
+                                "model": "medabots_server:block/chess/black_queen"
+                            }
+                        }
+                    ],
+                    "fallback": {
+                        "type": "minecraft:model",
+                        "model": "medabots_server:block/chess/black_king"
+                    }
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "medabots_server:block/chess/field"
+        }
+    }
+}

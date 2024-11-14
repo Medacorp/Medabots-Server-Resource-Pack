@@ -1,0 +1,1274 @@
+{
+    "model": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "scale": 1.0,
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_0"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_1"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_2"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_3"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_4"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_5"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_6"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_7"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_8"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_9"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_10"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_11"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_12"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_13"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_14"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_15"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_16"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_17"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_18"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_19"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_20"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_21"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_22"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_23"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_24"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_25"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_26"
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_27"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_28"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_29"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_30"
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_31"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_32"
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_33"
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_34"
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_35"
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_36"
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_37"
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_38"
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_39"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_40"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_41"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_42"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_43"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_44"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_45"
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_46"
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_47"
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_48"
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_49"
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_50"
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_51"
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_52"
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_53"
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_54"
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_55"
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_56"
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_57"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_58"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_59"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_60"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_61"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_62"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_63"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_64"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_65"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_66"
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_67"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_68"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_69"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_70"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_71"
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_72"
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_73"
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_74"
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_75"
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_76"
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_77"
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_78"
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_79"
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_80"
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_81"
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_82"
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_83"
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_84"
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_85"
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_86"
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_87"
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_88"
+                }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_89"
+                }
+            },
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_90"
+                }
+            },
+            {
+                "threshold": 93,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_91"
+                }
+            },
+            {
+                "threshold": 94,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_92"
+                }
+            },
+            {
+                "threshold": 95,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_93"
+                }
+            },
+            {
+                "threshold": 96,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_94"
+                }
+            },
+            {
+                "threshold": 97,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_95"
+                }
+            },
+            {
+                "threshold": 98,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_96"
+                }
+            },
+            {
+                "threshold": 99,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_97"
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_98"
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_99"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_100"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_101"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_102"
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_103"
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_104"
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_105"
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_106"
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_107"
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_108"
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_109"
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_110"
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_111"
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_112"
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_113"
+                }
+            },
+            {
+                "threshold": 116,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_114"
+                }
+            },
+            {
+                "threshold": 117,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_115"
+                }
+            },
+            {
+                "threshold": 118,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_116"
+                }
+            },
+            {
+                "threshold": 119,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_117"
+                }
+            },
+            {
+                "threshold": 120,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_118"
+                }
+            },
+            {
+                "threshold": 121,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_119"
+                }
+            },
+            {
+                "threshold": 122,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_120"
+                }
+            },
+            {
+                "threshold": 123,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_121"
+                }
+            },
+            {
+                "threshold": 124,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_122"
+                }
+            },
+            {
+                "threshold": 125,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_123"
+                }
+            },
+            {
+                "threshold": 126,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_124"
+                }
+            },
+            {
+                "threshold": 127,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_125"
+                }
+            },
+            {
+                "threshold": 128,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_126"
+                }
+            },
+            {
+                "threshold": 129,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_127"
+                }
+            },
+            {
+                "threshold": 130,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_128"
+                }
+            },
+            {
+                "threshold": 131,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_129"
+                }
+            },
+            {
+                "threshold": 132,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_130"
+                }
+            },
+            {
+                "threshold": 133,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_131"
+                }
+            },
+            {
+                "threshold": 134,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_132"
+                }
+            },
+            {
+                "threshold": 135,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_133"
+                }
+            },
+            {
+                "threshold": 136,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_134"
+                }
+            },
+            {
+                "threshold": 137,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_135"
+                }
+            },
+            {
+                "threshold": 138,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_136"
+                }
+            },
+            {
+                "threshold": 139,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_137"
+                }
+            },
+            {
+                "threshold": 140,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_138"
+                }
+            },
+            {
+                "threshold": 141,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_139"
+                }
+            },
+            {
+                "threshold": 142,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_140"
+                }
+            },
+            {
+                "threshold": 143,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_141"
+                }
+            },
+            {
+                "threshold": 144,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_142"
+                }
+            },
+            {
+                "threshold": 145,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_143"
+                }
+            },
+            {
+                "threshold": 146,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_144"
+                }
+            },
+            {
+                "threshold": 147,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_145"
+                }
+            },
+            {
+                "threshold": 148,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_146"
+                }
+            },
+            {
+                "threshold": 149,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_147"
+                }
+            },
+            {
+                "threshold": 150,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_148"
+                }
+            },
+            {
+                "threshold": 151,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_149"
+                }
+            },
+            {
+                "threshold": 152,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_150"
+                }
+            },
+            {
+                "threshold": 153,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_151"
+                }
+            },
+            {
+                "threshold": 154,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_152"
+                }
+            },
+            {
+                "threshold": 155,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_153"
+                }
+            },
+            {
+                "threshold": 156,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_154"
+                }
+            },
+            {
+                "threshold": 157,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_155"
+                }
+            },
+            {
+                "threshold": 158,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_156"
+                }
+            },
+            {
+                "threshold": 159,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_157"
+                }
+            },
+            {
+                "threshold": 160,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_158"
+                }
+            },
+            {
+                "threshold": 161,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_159"
+                }
+            },
+            {
+                "threshold": 162,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_160"
+                }
+            },
+            {
+                "threshold": 163,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_161"
+                }
+            },
+            {
+                "threshold": 164,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_162"
+                }
+            },
+            {
+                "threshold": 165,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_163"
+                }
+            },
+            {
+                "threshold": 166,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_164"
+                }
+            },
+            {
+                "threshold": 167,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_165"
+                }
+            },
+            {
+                "threshold": 168,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_166"
+                }
+            },
+            {
+                "threshold": 169,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_167"
+                }
+            },
+            {
+                "threshold": 170,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_168"
+                }
+            },
+            {
+                "threshold": 171,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_169"
+                }
+            },
+            {
+                "threshold": 172,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_170"
+                }
+            },
+            {
+                "threshold": 173,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_171"
+                }
+            },
+            {
+                "threshold": 174,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_172"
+                }
+            },
+            {
+                "threshold": 175,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_173"
+                }
+            },
+            {
+                "threshold": 176,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_174"
+                }
+            },
+            {
+                "threshold": 177,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_175"
+                }
+            },
+            {
+                "threshold": 178,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_176"
+                }
+            },
+            {
+                "threshold": 179,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_177"
+                }
+            },
+            {
+                "threshold": 180,
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "medabots_server:block/press_wall/state_178"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "medabots_server:item/block/press_wall"
+        }
+    }
+}
