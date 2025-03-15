@@ -4,7 +4,8 @@
         "model": "medabots_server:item/mission",
         "tints": [
             {
-                "type": "minecraft:dye",
+                "type": "minecraft:custom_model_data",
+                "index": 0,
                 "default": 16777215
             }
         ]

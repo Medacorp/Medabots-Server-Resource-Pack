@@ -4,7 +4,8 @@
         "model": "medabots_server:item/custom_stage",
         "tints": [
             {
-                "type": "minecraft:dye",
+                "type": "minecraft:custom_model_data",
+                "index": 0,
                 "default": 16777215
             }
         ]
