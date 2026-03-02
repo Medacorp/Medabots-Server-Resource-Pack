@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/menu/stage/builder/change_stage_variant"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/menu/stage/builder/change_stage_variant"}}

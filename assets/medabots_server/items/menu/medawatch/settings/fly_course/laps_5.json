@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/menu/medawatch/settings/fly_course/laps_5"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/menu/medawatch/settings/fly_course/laps_5"}}

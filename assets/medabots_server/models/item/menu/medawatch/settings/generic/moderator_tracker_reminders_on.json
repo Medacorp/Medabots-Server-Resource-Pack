@@ -1,6 +1,1 @@
-{
-    "parent": "medabots_server:item/menu",
-	"textures": {
-        "layer0": "medabots_server:item/menu/medawatch/settings/generic/moderator_tracker_reminders_on"
-    }
-}
+{"parent":"medabots_server:item/menu","textures":{"layer0":"medabots_server:item/menu/medawatch/settings/generic/moderator_tracker_reminders_on"}}

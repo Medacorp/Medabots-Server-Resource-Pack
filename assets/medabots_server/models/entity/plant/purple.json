@@ -1,6 +1,1 @@
-{
-	"parent": "medabots_server:entity/plant",
-	"textures": {
-		"0": "medabots_server:entity/plant/purple"
-	}
-}
+{"parent":"medabots_server:entity/plant","textures":{"0":"medabots_server:entity/plant/purple"}}

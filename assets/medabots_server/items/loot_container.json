@@ -1,10 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:special",
-        "base": "medabots_server:item/loot_container",
-        "model": {
-            "type": "minecraft:chest",
-            "texture": "minecraft:normal"
-        }
-    }
-}
+{"model":{"type":"minecraft:special","base":"medabots_server:item/loot_container","model":{"type":"minecraft:chest","texture":"minecraft:normal"}}}

@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-	"textures": {
-        "layer0": "medabots_server:item/menu/stage/builder/effect_no_defending"
-    }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"medabots_server:item/menu/stage/builder/effect_no_defending"}}

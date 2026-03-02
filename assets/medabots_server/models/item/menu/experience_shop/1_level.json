@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-	"textures": {
-        "layer0": "medabots_server:item/menu/experience_shop/1_level"
-    }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"medabots_server:item/menu/experience_shop/1_level"}}

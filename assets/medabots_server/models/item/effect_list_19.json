@@ -1,6 +1,1 @@
-{
-  "parent": "medabots_server:item/hidden",
-  "textures": {
-    "layer0": "minecraft:item/compass_19"
-  }
-}
+{"parent":"medabots_server:item/hidden","textures":{"layer0":"minecraft:item/compass_19"}}

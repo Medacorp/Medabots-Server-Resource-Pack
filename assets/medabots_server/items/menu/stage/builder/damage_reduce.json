@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/menu/stage/builder/damage_reduce"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/menu/stage/builder/damage_reduce"}}

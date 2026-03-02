@@ -1,7 +1,1 @@
-{
-	"parent": "medabots_server:item/medal",
-	"textures": {
-		"edge": "medabots_server:item/missing_medal",
-		"face": "medabots_server:item/empty"
-	}
-}
+{"parent":"medabots_server:item/medal","textures":{"edge":"medabots_server:item/missing_medal","face":"medabots_server:item/empty"}}

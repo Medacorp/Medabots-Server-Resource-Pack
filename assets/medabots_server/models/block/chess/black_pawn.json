@@ -1,8 +1,1 @@
-{
-	"parent": "medabots_server:block/chess/pawn",
-	"credit": "Made with Blockbench",
-	"textures": {
-		"0": "medabots_server:block/black_pawn",
-		"particle": "medabots_server:block/black_pawn"
-	}
-}
+{"parent":"medabots_server:block/chess/pawn","textures":{"0":"medabots_server:block/black_pawn","particle":"medabots_server:block/black_pawn"}}

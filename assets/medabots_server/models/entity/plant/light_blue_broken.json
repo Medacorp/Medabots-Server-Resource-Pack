@@ -1,6 +1,1 @@
-{
-	"parent": "medabots_server:entity/plant/broken",
-	"textures": {
-		"0": "medabots_server:entity/plant/light_blue"
-	}
-}
+{"parent":"medabots_server:entity/plant/broken","textures":{"0":"medabots_server:entity/plant/light_blue"}}

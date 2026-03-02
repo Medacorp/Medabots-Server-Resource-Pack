@@ -1,6 +1,1 @@
-{
-    "parent": "medabots_server:item/kabuto_medal",
-	"textures": {
-		"charge": "medabots_server:item/medal_charge"
-	}
-}
+{"parent":"medabots_server:item/kabuto_medal","textures":{"charge":"medabots_server:item/medal_charge"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/player_interactions"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/player_interactions"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/sunglasses"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/sunglasses"}}

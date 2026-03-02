@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-	"textures": {
-        "layer0": "medabots_server:gui/advancements/icons/bosses/lor_starcutter"
-    }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"medabots_server:gui/advancements/icons/bosses/lor_starcutter"}}

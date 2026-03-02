@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-	"textures": {
-        "layer0": "medabots_server:item/menu/medawatch/tracker/mark_as_public"
-    }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"medabots_server:item/menu/medawatch/tracker/mark_as_public"}}

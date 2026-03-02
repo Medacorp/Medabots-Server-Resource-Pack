@@ -1,6 +1,1 @@
-{
-	"parent": "medabots_server:entity/topmaniac/dormant",
-	"textures": {
-		"head": "medabots_server:entity/topmaniac/head_waking"
-	}
-}
+{"parent":"medabots_server:entity/topmaniac/dormant","textures":{"head":"medabots_server:entity/topmaniac/head_waking"}}

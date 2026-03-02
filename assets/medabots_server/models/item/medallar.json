@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:item/generated",
-	"textures": {
-        "layer0": "medabots_server:item/medallar"
-    }
-}
+{"parent":"minecraft:item/generated","textures":{"layer0":"medabots_server:item/medallar"}}

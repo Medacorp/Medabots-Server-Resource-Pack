@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/menu/stage/builder/decrease_range"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/menu/stage/builder/decrease_range"}}

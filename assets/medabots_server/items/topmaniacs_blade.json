@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/topmaniacs_blade"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/topmaniacs_blade"}}

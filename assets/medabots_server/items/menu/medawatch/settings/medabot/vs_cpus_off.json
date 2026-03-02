@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/menu/medawatch/settings/medabot/vs_cpus_off"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/menu/medawatch/settings/medabot/vs_cpus_off"}}

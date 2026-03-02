@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "medabots_server:item/stage_entrances_volume_1"
-    }
-}
+{"model":{"type":"minecraft:model","model":"medabots_server:item/stage_entrances_volume_1"}}
